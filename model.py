@@ -79,10 +79,10 @@ def compare_static(scores_df, mentee_df, mentor_df, mentee_id_list, mentor_id_li
                 scores_df.loc[mentor_id, mentee_id] += round(weighting,2)
                 
 
-def matching_scores():
+def matching_scores(mentee_df,mentor_df):
 
-    mentee_df = pd.read_csv('csv/mentee.csv')
-    mentor_df = pd.read_csv('csv/mentor.csv')
+    #mentee_df = pd.read_csv('csv/mentee.csv')
+    #mentor_df = pd.read_csv('csv/mentor.csv')
 
     #retrieve all of the mentors and mentees in seperate lists
     mentee_id_list = list(mentee_df['id']) 
@@ -100,7 +100,7 @@ def matching_scores():
     #compare_static(scores_matrix_df, mentee_df, mentor_df, mentee_id_list, mentor_id_list, 'international', 0.2)
     compare_interests(scores_matrix_df, mentee_df, mentor_df, mentee_id_list, mentor_id_list)
 
-    scores_matrix_df.to_csv('scores_df.csv')
+    return scores_matrix_df.to_json()
 
 # assigning mentees to specific mentors
 def assign():

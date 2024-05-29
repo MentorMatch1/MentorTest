@@ -9,3 +9,5 @@ __pycache__/
 dist/
 build/
 mentor_env/
+__pycache__/model.cpython-310.pyc
+__pycache__/variables.cpython-310.pyc
