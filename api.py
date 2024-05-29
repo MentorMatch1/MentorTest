@@ -9,25 +9,23 @@ from model import matching_scores
 #source mentor_env/bin/activate
 app = Quart(__name__)
 
-# @app.route('/')
-# async def index():
-#     return 'hello'
-
 @app.post("/csv")
-async def csv_intake() -> str:
+async def csv_intake():
     data = await request.get_json() #dictionary of json {'mentee': json, mentor: 'json'} 
-    mentee_df = data['mentee'].to_csv 
-    mentor_df = data['mentor'].to_csv
+    print(type(data['mentee']))
+    mentee_df = pd.read_json(data['mentee'],orient='records')
+    mentor_df = pd.read_json(data['mentor'],orient='records')
 
-    if mentee_df == None or mentor_df == None:
+    if mentee_df is None or mentor_df is None:
         abort(400, description="The mentor data or mentee data was not succesfully recieved")
 
     scores_df_json = matching_scores(mentee_df, mentor_df)
 
     response_data = {'message': 'Data Recieved Sucessfully', 'scores': scores_df_json}
-    return response_data
+    return jsonify(response_data), 200
 
-
+if __name__ == '__main__':
+    app.run(host='0.0.0.0', port=5000)
 
 
     
