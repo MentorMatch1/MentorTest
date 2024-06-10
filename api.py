@@ -2,13 +2,9 @@ from quart import Quart, jsonify, request, abort
 # from quart_cors import cors
 # from quart_auth import AuthManager, login_user, logut_user, current_user, login_required, User
 
-import json
 import pandas as pd
 from model import matching_scores
 
-# export QUART_APP=api:app
-# quart run
-# source mentor_env/bin/activate
 app = Quart(__name__)
 
 

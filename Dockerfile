@@ -7,12 +7,16 @@ RUN pip install --no-cache-dir -r requirements.txt
 
 RUN curl -fsSL https://ollama.com/install.sh | sh
 
+RUN ollama start & \
+    sleep 5 && \
+    ollama pull mxbai-embed-large
+
 COPY . .
 
 EXPOSE 5001
 
-RUN chmod +x /mentortest/retrieve_model.sh
-ENTRYPOINT ["/mentortest/retrieve_model.sh"]
+RUN chmod +x /mentortest/start_ollama.sh
+ENTRYPOINT ["/mentortest/start_ollama.sh"]
 
 CMD ["python3", "api.py"]
 
