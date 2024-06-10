@@ -11,8 +11,8 @@ COPY . .
 
 EXPOSE 5001
 
-RUN chmod +x /mentortest/entrypoint.sh
-ENTRYPOINT ["/mentortest/entrypoint.sh"]
+RUN chmod +x /mentortest/retrieve_model.sh
+ENTRYPOINT ["/mentortest/retrieve_model.sh"]
 
 CMD ["python3", "api.py"]
 
