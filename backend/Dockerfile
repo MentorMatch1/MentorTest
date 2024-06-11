@@ -7,6 +7,8 @@ RUN pip install --no-cache-dir -r requirements.txt
 
 RUN curl -fsSL https://ollama.com/install.sh | sh
 
+RUN ollama --version
+
 RUN ollama start & \
     sleep 5 && \
     ollama pull mxbai-embed-large
