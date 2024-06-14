@@ -17,7 +17,12 @@ COPY . .
 
 EXPOSE 5001
 
-RUN chmod +x /mentortest/start_ollama.sh
+
+#convert plain text files in DOS or Windows format (which use CRLF line endings) to Unix format (which use LF line endings)
+RUN apt-get update && apt-get install -y dos2unix \
+    && dos2unix /mentortest/start_ollama.sh \
+    && chmod +x /mentortest/start_ollama.sh
+
 ENTRYPOINT ["/mentortest/start_ollama.sh"]
 
 CMD ["python3", "api.py"]

@@ -36,8 +36,8 @@ def compare_programs(scores_df, mentee_df, mentor_df, mentee_id_list, mentor_id_
     for mentor_id in mentor_id_list:
         for mentee_id in mentee_id_list:
 
-            mentor_program = dict(mentor_df.loc[mentor_id])['program']
-            mentee_program = dict(mentee_df.loc[mentee_id])['program']
+            mentor_program = dict(mentor_df.loc[mentor_id])['Mentee Program']
+            mentee_program = dict(mentee_df.loc[mentee_id])['Mentee Program']
 
             scores_df.loc[mentor_id, mentee_id] = round(
                 (compatibility_scores[mentor_program][mentee_program] * 0.4) + scores_df.loc[mentor_id, mentee_id], 5)
@@ -53,11 +53,11 @@ def embed_interests(interests):
 
 def compare_interests(scores_df, mentee_df, mentor_df, mentee_id_list, mentor_id_list):
 
-    mentor_interests = list(mentor_df['interests'])
-    mentee_interests = list(mentee_df['interests'])
+    mentor_interests = list(mentor_df['Mentee Interests'])
+    mentee_interests = list(mentee_df['Mentee Interests'])
 
-    embedded_mentor = embed_interests(list(mentor_df['interests']))
-    embedded_mentee = embed_interests(list(mentee_df['interests']))
+    embedded_mentor = embed_interests(list(mentor_df['Mentee Interests']))
+    embedded_mentee = embed_interests(list(mentee_df['Mentee Interests']))
 
     # the returned similarity matrix will have the first index 0 be the first row, and it rhe first index will contain all of the scores for all of the mentees
     # matched to that mentor in the row
@@ -100,7 +100,7 @@ def matching_scores(mentee_df, mentor_df):
     compare_programs(scores_matrix_df, mentee_df, mentor_df,
                      mentee_id_list, mentor_id_list)
     compare_static(scores_matrix_df, mentee_df, mentor_df,
-                   mentee_id_list, mentor_id_list, 'residence', 0.2)
+                   mentee_id_list, mentor_id_list, 'Residence', 0.2)
     # compare_static(scores_matrix_df, mentee_df, mentor_df, mentee_id_list, mentor_id_list, 'international', 0.2)
     compare_interests(scores_matrix_df, mentee_df, mentor_df,
                       mentee_id_list, mentor_id_list)
@@ -110,7 +110,7 @@ def matching_scores(mentee_df, mentor_df):
 # assigning mentees to specific mentors
 
 
-def assign(scores_matrix_df, mentee_df, mentor_df):
+def assignment(scores_matrix_df, mentee_df, mentor_df):
     pass
 
 
