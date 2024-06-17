@@ -100,3 +100,26 @@ compatibility_scores = {
     }
 }
 
+matched_format = {
+        'Mentee ID': [],
+        'Mentee Firstname': [],
+        'Mentee Lastname': [],
+        'Mentee Email': [],
+        'Mentee Program': [],
+        'Mentee Interests': [],
+        'Mentee Country': [],
+        'Mentee City': [],
+        'Mentee Residence': [],
+        'Mentor ID': [],
+        'Mentor Role': [],
+        'Mentor Firstname': [],
+        'Mentor Lastname': [],
+        'Mentor Email': [],
+        'Mentor Program': [],
+        'Mentor Interests': [],
+        'Mentor Country': [],
+        'Mentor City': [],
+        'Mentor Residence': [],
+        'Score': []
+        
+    }

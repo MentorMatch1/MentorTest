@@ -1,4 +1,4 @@
-from variables import compatibility_scores
+from variables import compatibility_scores, matched_format
 import ollama
 import numpy as np
 import pandas as pd
@@ -12,6 +12,8 @@ def create_scores_df(mentee_id_list, mentor_id_list):
 
     rows: mentors
     columns: mentees
+
+    return: scores dataframe with 0's inside of the matrix
 
     '''
     scores_df = pd.DataFrame(columns=mentee_id_list, index=mentor_id_list)
@@ -83,67 +85,15 @@ def compare_static(scores_df, mentee_df, mentor_df, mentee_id_list, mentor_id_li
             if (mentor_column == mentee_column):
                 scores_df.loc[mentor_id, mentee_id] += round(weighting, 2)
 
-
-def matching_scores(mentee_df, mentor_df):
-
-    # retrieve all of the mentors and mentees in seperate lists
-    mentee_id_list = list(mentee_df['id'])
-    mentor_id_list = list(mentor_df['id'])
-
-    # removing index
-    mentor_df.set_index('id', inplace=True)
-    mentee_df.set_index('id', inplace=True)
-
-    scores_matrix_df = create_scores_df(mentee_id_list, mentor_id_list)
-
-    # Comparing mentors to mentees to get all the scores
-    compare_programs(scores_matrix_df, mentee_df, mentor_df,
-                     mentee_id_list, mentor_id_list)
-    compare_static(scores_matrix_df, mentee_df, mentor_df,
-                   mentee_id_list, mentor_id_list, 'Residence', 0.2)
-    
-    compare_interests(scores_matrix_df, mentee_df, mentor_df,
-                      mentee_id_list, mentor_id_list)
-    
-    print(scores_matrix_df)
-    assignment(scores_matrix_df, mentee_df, mentor_df, mentee_id_list, mentor_id_list)
-
-    return scores_matrix_df.to_json()
-
-# assigning mentees to specific mentors
-
-
 def assignment(scores_matrix_df, mentee_df, mentor_df, mentee_id_list, mentor_id_list):
     '''takes the score matrix and returns a csv file that gives all the matches with their names
     scores_matrix_df -> rows = mentor ids / columns = mentee ids
     scores_matrix_df.loc[mentor_id, mentee_id] = int
 
-
-    
+    cols (mentees) iterated then mentors as we have to give each mentee a pairing.
     '''
-
-    matched_format = {
-        'Mentee ID': [],
-        'Mentee Firstname': [],
-        'Mentee Lastname': [],
-        'Mentee Email': [],
-        'Mentee Program': [],
-        'Mentee Interests': [],
-        'Mentee Country': [],
-        'Mentee City': [],
-        'Mentee Residence': [],
-        'Mentor ID': [],
-        'Mentor Role': [],
-        'Mentor Firstname': [],
-        'Mentor Lastname': [],
-        'Mentor Email': [],
-        'Mentor Program': [],
-        'Mentor Interests': [],
-        'Mentor Country': [],
-        'Mentor City': [],
-        'Mentor Residence': [],
-        'Score': []
-    }
+    
+    mentor_assigned_count = {key: [] for key in mentor_id_list}
 
     for mentee_id in mentee_id_list:
 
@@ -178,21 +128,48 @@ def assignment(scores_matrix_df, mentee_df, mentor_df, mentee_id_list, mentor_id
         matched_format['Mentor City'].append(mentor_df.loc[mentor_id_list[index]]['Mentor City'])
         matched_format['Mentor Residence'].append(mentor_df.loc[mentor_id_list[index]]['Residence'])
         matched_format['Score'].append(largest_match_score)
-    
 
+        mentor_assigned_count[mentor_id_list[index]].append(mentee_id)
+
+
+    print(mentor_assigned_count)
+    
     matched_df = pd.DataFrame(matched_format)
     matched_df.to_csv('output.csv', index=False)
+
+
+def matching_scores(mentee_df, mentor_df):
+
+    # retrieve all of the mentors and mentees in seperate lists
+    mentee_id_list = list(mentee_df['id'])
+    mentor_id_list = list(mentor_df['id'])
+
+    # removing index
+    mentor_df.set_index('id', inplace=True)
+    mentee_df.set_index('id', inplace=True)
+
+    scores_matrix_df = create_scores_df(mentee_id_list, mentor_id_list)
+
+    # Comparing mentors to mentees to get all the scores
+    compare_programs(scores_matrix_df, mentee_df, mentor_df,
+                     mentee_id_list, mentor_id_list)
+    compare_static(scores_matrix_df, mentee_df, mentor_df,
+                   mentee_id_list, mentor_id_list, 'Residence', 0.2)
     
+    compare_interests(scores_matrix_df, mentee_df, mentor_df,
+                      mentee_id_list, mentor_id_list)
+    
+    print(scores_matrix_df)
+    assignment(scores_matrix_df, mentee_df, mentor_df, mentee_id_list, mentor_id_list)
+
+    return scores_matrix_df.to_json()
 
 
-    print(scores_matrix_df.loc[312345,852367])
-
-def mentor_assignment():
-    '''gives the amount of mentees assigned to that specific mentor '''
-    pass
-
-
-
+#Things to do
+#Create better mentor/mentee files
+#Add a max assignment limit for junior and senior mentees
+#Create script to return CSV of the summary of all Mentors and Mentees matched with how many Mentees for the Mentor
+#Fix Code, More Abstracting (Possibly make Mentors Columns and Mentees Rows?)
 
 
 
