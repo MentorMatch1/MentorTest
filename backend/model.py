@@ -1,4 +1,4 @@
-from variables import compatibility_scores, matched_format
+from variables import compatibility_scores, matched_format,mentor_vars,mentee_vars
 import ollama
 import numpy as np
 import pandas as pd
@@ -79,8 +79,8 @@ def compare_static(scores_df, mentee_df, mentor_df, mentee_id_list, mentor_id_li
     for mentor_id in mentor_id_list:
         for mentee_id in mentee_id_list:
 
-            mentor_column = dict(mentor_df.loc[mentor_id])[retrieve]
-            mentee_column = dict(mentee_df.loc[mentee_id])[retrieve]
+            mentor_column = dict(mentor_df.loc[mentor_id])['Mentor Residence']
+            mentee_column = dict(mentee_df.loc[mentee_id])['Mentee Residence']
 
             if (mentor_column == mentee_column):
                 scores_df.loc[mentor_id, mentee_id] += round(weighting, 2)
@@ -108,31 +108,25 @@ def assignment(scores_matrix_df, mentee_df, mentor_df, mentee_id_list, mentor_id
         #Here, highest matching pair obtained, so add them to the dataframe from the scores obtained
 
         matched_format['Mentee ID'].append(mentee_id)
-        matched_format['Mentee Firstname'].append(mentee_df.loc[mentee_id]['Firstname'])
-        matched_format['Mentee Lastname'].append(mentee_df.loc[mentee_id]['Lastname'])
-        matched_format['Mentee Email'].append(mentee_df.loc[mentee_id]['Mentee Email'])
-        matched_format['Mentee Program'].append(mentee_df.loc[mentee_id]['Mentee Program'])
-        matched_format['Mentee Interests'].append(mentee_df.loc[mentee_id]['Mentee Interests'])
-        matched_format['Mentee Country'].append(mentee_df.loc[mentee_id]['Mentee Country'])
-        matched_format['Mentee City'].append(mentee_df.loc[mentee_id]['Mentee City'])
-        matched_format['Mentee Residence'].append(mentee_df.loc[mentee_id]['Residence'])
+        for var in mentee_vars[1:]:
+            matched_format[var].append(mentee_df.loc[mentee_id][var])
 
         matched_format['Mentor ID'].append(mentor_id_list[index])
-        matched_format['Mentor Role'].append(mentor_df.loc[mentor_id_list[index]]['Mentor Role'])
-        matched_format['Mentor Firstname'].append(mentor_df.loc[mentor_id_list[index]]['Firstname'])
-        matched_format['Mentor Lastname'].append(mentor_df.loc[mentor_id_list[index]]['Lastname'])
-        matched_format['Mentor Email'].append(mentor_df.loc[mentor_id_list[index]]['Mentor Email'])
-        matched_format['Mentor Program'].append(mentor_df.loc[mentor_id_list[index]]['Mentor Program'])
-        matched_format['Mentor Interests'].append(mentor_df.loc[mentor_id_list[index]]['Mentor Interests'])
-        matched_format['Mentor Country'].append(mentor_df.loc[mentor_id_list[index]]['Mentor Country'])
-        matched_format['Mentor City'].append(mentor_df.loc[mentor_id_list[index]]['Mentor City'])
-        matched_format['Mentor Residence'].append(mentor_df.loc[mentor_id_list[index]]['Residence'])
+        for var in mentor_vars[1:]:
+            print(var)
+            matched_format[var].append(mentor_df.loc[mentor_id_list[index]][var])
+
+
         matched_format['Score'].append(largest_match_score)
-
         mentor_assigned_count[mentor_id_list[index]].append(mentee_id)
+        
 
+    #print(matched_format)
 
-    print(mentor_assigned_count)
+    #test case
+    #print(mentor_assigned_count)
+    for key, value in matched_format.items():
+        print(f"Length of list '{key}': {len(value)}")
     
     matched_df = pd.DataFrame(matched_format)
     matched_df.to_csv('output.csv', index=False)
@@ -141,12 +135,12 @@ def assignment(scores_matrix_df, mentee_df, mentor_df, mentee_id_list, mentor_id
 def matching_scores(mentee_df, mentor_df):
 
     # retrieve all of the mentors and mentees in seperate lists
-    mentee_id_list = list(mentee_df['id'])
-    mentor_id_list = list(mentor_df['id'])
+    mentee_id_list = list(mentee_df['Mentee ID'])
+    mentor_id_list = list(mentor_df['Mentor ID'])
 
     # removing index
-    mentor_df.set_index('id', inplace=True)
-    mentee_df.set_index('id', inplace=True)
+    mentor_df.set_index('Mentor ID', inplace=True)
+    mentee_df.set_index('Mentee ID', inplace=True)
 
     scores_matrix_df = create_scores_df(mentee_id_list, mentor_id_list)
 

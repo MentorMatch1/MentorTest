@@ -121,5 +121,29 @@ matched_format = {
         'Mentor City': [],
         'Mentor Residence': [],
         'Score': []
-        
     }
+
+mentor_vars  = [
+    'Mentor ID',
+    'Mentor Role',
+    'Mentor Firstname',
+    'Mentor Lastname',
+    'Mentor Email',
+    'Mentor Program',
+    'Mentor Interests',
+    'Mentor Country',
+    'Mentor City',
+    'Mentor Residence',
+]
+
+mentee_vars  = [
+    'Mentee ID',
+    'Mentee Firstname',
+    'Mentee Lastname',
+    'Mentee Email',
+    'Mentee Program',
+    'Mentee Interests',
+    'Mentee Country',
+    'Mentee City',
+    'Mentee Residence',
+]
