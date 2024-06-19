@@ -21,3 +21,4 @@ Should we have a threshold limit of they must be a good match above 70%? Depends
 The model wont be perfect either, its just doing the best it can to match based of off the parameters given, in any case there will be outliers
 As long as these outliers are outlined and their best fits are shown
 
+Matching based off of percentage levels (ex) starting with 0.90 matches, then next iteration 0.80 matches, going further down until 0.60
