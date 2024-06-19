@@ -1,4 +1,4 @@
-id,Firstname,Lastname,Mentee Email,Mentee Program,Mentee Interests,Mentee Country,Mentee City,Residence
+Mentee ID,Mentee Firstname,Mentee Lastname,Mentee Email,Mentee Program,Mentee Interests,Mentee Country,Mentee City,Mentee Residence
 852367,Evelyn,Martinez,emartine@ualberta.ca,Psychology,"Understanding human behavior fascinates me. I enjoy studying the complexities of the mind and how it influences our actions. In my spare time, I volunteer at mental health organizations and participate in research studies.",United Kingdom,London,TRUE
 435789,Isabella,Scott,iscot@ualberta.ca,Engineering,"I have a strong interest in AI and robotics, focusing on creating innovative solutions. In my free time, I experiment with new technologies and improve my coding skills.",United States,San Francisco,FALSE
 413923,Charlotte,Lewis,clewi@ualberta.ca,Computer Science,"As a computer science enthusiast, I love exploring the latest technological advancements. I enjoy coding and developing software that can make a difference.",Canada,Edmonton,TRUE
