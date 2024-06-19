@@ -1,4 +1,4 @@
-from variables import compatibility_scores, matched_format,mentor_vars,mentee_vars
+from variables import compatibility_scores, matched_format,mentor_vars,mentee_vars, JUNIOR_MAX, SENIOR_MAX
 import ollama
 import numpy as np
 import pandas as pd
@@ -101,35 +101,46 @@ def assignment(scores_matrix_df, mentee_df, mentor_df, mentee_id_list, mentor_id
         index = 0
 
         for i,mentor_id in enumerate(mentor_id_list): 
+            # if scores_matrix_df.loc[mentor_id, mentee_id] > largest_match_score:
+            #     index = i
+            #     largest_match_score = scores_matrix_df.loc[mentor_id, mentee_id]
+
             if scores_matrix_df.loc[mentor_id, mentee_id] > largest_match_score:
-                index = i
-                largest_match_score = scores_matrix_df.loc[mentor_id, mentee_id]
+                if mentor_df.loc[mentor_id]['Mentor Role'] == 'Senior Science Mentor' and len(mentor_assigned_count[mentor_id]) < SENIOR_MAX:
+                    index = i
+                    largest_match_score = scores_matrix_df.loc[mentor_id, mentee_id]
+                elif mentor_df.loc[mentor_id]['Mentor Role'] == 'Junior Science Mentor' and len(mentor_assigned_count[mentor_id]) < JUNIOR_MAX:
+                    index = i
+                    largest_match_score = scores_matrix_df.loc[mentor_id, mentee_id]
+                else:
+                    pass
+
+            
 
         #Here, highest matching pair obtained, so add them to the dataframe from the scores obtained
 
+        #ASSIGNMENT 
         matched_format['Mentee ID'].append(mentee_id)
         for var in mentee_vars[1:]:
             matched_format[var].append(mentee_df.loc[mentee_id][var])
 
         matched_format['Mentor ID'].append(mentor_id_list[index])
         for var in mentor_vars[1:]:
-            print(var)
             matched_format[var].append(mentor_df.loc[mentor_id_list[index]][var])
-
-
         matched_format['Score'].append(largest_match_score)
+
         mentor_assigned_count[mentor_id_list[index]].append(mentee_id)
-        
+
 
     #print(matched_format)
 
     #test case
-    #print(mentor_assigned_count)
-    for key, value in matched_format.items():
-        print(f"Length of list '{key}': {len(value)}")
+    print(mentor_assigned_count)
+    # for key, value in matched_format.items():
+    #     print(f"Length of list '{key}': {len(value)}")
     
     matched_df = pd.DataFrame(matched_format)
-    matched_df.to_csv('output.csv', index=False)
+    matched_df.to_csv('../csv/output.csv', index=False)
 
 
 def matching_scores(mentee_df, mentor_df):
@@ -152,9 +163,10 @@ def matching_scores(mentee_df, mentor_df):
     
     compare_interests(scores_matrix_df, mentee_df, mentor_df,
                       mentee_id_list, mentor_id_list)
-    
-    print(scores_matrix_df)
+
+    #scores_matrix_df.to_csv('scores.csv', index=False)
     assignment(scores_matrix_df, mentee_df, mentor_df, mentee_id_list, mentor_id_list)
+    print(scores_matrix_df)
 
     return scores_matrix_df.to_json()
 
