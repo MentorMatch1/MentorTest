@@ -25,7 +25,7 @@ RUN apt-get update && apt-get install -y dos2unix \
 
 ENTRYPOINT ["/mentortest/start_ollama.sh"]
 
-CMD ["python3", "api.py"]
+CMD ["python3", "testing.py"]
 
 #docker build -t mentor_test_api .
 #docker run -p 5001:5001 mentor_test_api 
