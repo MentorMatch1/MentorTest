@@ -93,61 +93,82 @@ def assignment(scores_matrix_df, mentee_df, mentor_df, mentee_id_list, mentor_id
     cols (mentees) iterated then mentors as we have to give each mentee a pairing.
     '''
     
+    
     mentor_assigned_count = {key: [] for key in mentor_id_list}
-
+   
     for percentage in range(90, 50, -10):
-        for mentee_id in mentee_id_list:
+        print(f"ITERATION --- {percentage}")
 
+        #copying problem
+        for mentee_id in list(mentee_id_list):
+            score = 0
             largest_match_score = 0
             index = -1
 
+
             for i,mentor_id in enumerate(mentor_id_list): 
-                # if scores_matrix_df.loc[mentor_id, mentee_id] > largest_match_score:
-                #     index = i
-                #     largest_match_score = scores_matrix_df.loc[mentor_id, mentee_id]
+
                 score = scores_matrix_df.loc[mentor_id, mentee_id]
+                #print(score, type(score), largest_match_score)
+
+                # if mentee_id == 837678:
+                #     print(mentor_id)
+                #     print(score)
+                #     print(largest_match_score, percentage/100)
+                    
 
                 if score > largest_match_score:
-                    if mentor_df.loc[mentor_id]['Mentor Role'] == 'Senior Science Mentor' and len(mentor_assigned_count[mentor_id]) < SENIOR_MAX and not mentee_id in mentor_assigned_count[mentor_id] and score >= percentage/100:
-                        print(mentor_assigned_count)
+                    if mentor_df.loc[mentor_id]['Mentor Role'] == 'Senior Science Mentor' and len(mentor_assigned_count[mentor_id]) < SENIOR_MAX and mentee_id not in mentor_assigned_count[mentor_id] and score >= percentage/100:
                         index = i
                         largest_match_score = score
+                    
                         
-                    elif mentor_df.loc[mentor_id]['Mentor Role'] == 'Junior Science Mentor' and len(mentor_assigned_count[mentor_id]) < JUNIOR_MAX and not mentee_id in mentor_assigned_count[mentor_id] and score >= percentage/100:
+                    if mentor_df.loc[mentor_id]['Mentor Role'] == 'Junior Science Mentor' and len(mentor_assigned_count[mentor_id]) < JUNIOR_MAX and mentee_id not in mentor_assigned_count[mentor_id] and score >= percentage/100:
                         index = i
-                        print(mentor_assigned_count)
                         largest_match_score = score
-                    else:
-                        pass
+                    
+                    if (len(mentor_assigned_count[mentor_id]) == JUNIOR_MAX and mentor_df.loc[mentor_id]['Mentor Role'] == 'Junior Science Mentor' and score > percentage/100 or len(mentor_assigned_count[mentor_id]) == SENIOR_MAX and mentor_df.loc[mentor_id]['Mentor Role'] == 'Senior Science Mentor' and score > percentage/100):
+                        print(f"Individuals Mentor ID: {mentor_id} with Mentee ID: {mentee_id} Could not be matched as there is a full amount of mentors assigned for mentor_id={mentor_id} {score}")
+                    
+                        
+                    
 
-                
-
+            
             #Here, highest matching pair obtained, so add them to the dataframe from the scores obtained
-
             #ASSIGNMENT 
             
             if index > -1:
                 mentee_id_list.remove(mentee_id)
+                #print(len(mentee_id_list))
                 matched_format['Mentee ID'].append(mentee_id)
                 for var in mentee_vars[1:]:
                     matched_format[var].append(mentee_df.loc[mentee_id][var])
+
                 matched_format['Mentor ID'].append(mentor_id_list[index])
                 for var in mentor_vars[1:]:
                     matched_format[var].append(mentor_df.loc[mentor_id_list[index]][var])
                 matched_format['Score'].append(largest_match_score)
                 mentor_assigned_count[mentor_id_list[index]].append(mentee_id)
+                print(f"Final Match - Mentee ID: {mentee_id} with Mentor ID: {mentor_id_list[index]}")
+                print('------------------------------------------------')
+
+            elif(index == -1 and largest_match_score < 0.60):
+                    print(f"{mentee_id} Could not be matched as their score was less than 0.60 after iterations OR mentor count was equal to == {mentor_assigned_count[mentor_id_list[index]]} / {largest_match_score}")
+                    print('---------------------------')
+    
+            
             
 
 
-    #print(matched_format)
+
     print(mentor_assigned_count)
+    print(mentee_id_list)
     #test case
-    
     # for key, value in matched_format.items():
     #     print(f"Length of list '{key}': {len(value)}")
     
     matched_df = pd.DataFrame(matched_format)
-    print(matched_df)    
+    matched_df.to_csv('output.csv', index=False)    
 
 
 def matching_scores(mentee_df, mentor_df):
@@ -170,10 +191,12 @@ def matching_scores(mentee_df, mentor_df):
     
     compare_interests(scores_matrix_df, mentee_df, mentor_df,
                       mentee_id_list, mentor_id_list)
-
-    #scores_matrix_df.to_csv('scores.csv', index=False)
-    assignment(scores_matrix_df, mentee_df, mentor_df, mentee_id_list, mentor_id_list)
     print(scores_matrix_df)
+
+    scores_matrix_df.index = mentor_id_list
+    scores_matrix_df.to_csv('scores.csv', index=True)
+    assignment(scores_matrix_df, mentee_df, mentor_df, mentee_id_list, mentor_id_list)
+    
 
     return scores_matrix_df.to_json()
 
@@ -187,7 +210,7 @@ def matching_scores(mentee_df, mentor_df):
 
 
 if __name__ == '__main__':
-    mentor_df = pd.read_csv('../csv/mentor.csv')
-    mentee_df = pd.read_csv('../csv/mentee.csv')
+    mentor_df = pd.read_csv('csv/mentor.csv')
+    mentee_df = pd.read_csv('csv/mentee.csv')
     matching_scores(mentee_df, mentor_df)
 
