@@ -3,6 +3,7 @@ import ollama
 import numpy as np
 import pandas as pd
 from sklearn.metrics.pairwise import cosine_similarity
+import json
 
 pd.set_option('future.no_silent_downcasting', True)
 
@@ -109,12 +110,6 @@ def assignment(scores_matrix_df, mentee_df, mentor_df, mentee_id_list, mentor_id
             for i,mentor_id in enumerate(mentor_id_list): 
 
                 score = scores_matrix_df.loc[mentor_id, mentee_id]
-                #print(score, type(score), largest_match_score)
-
-                # if mentee_id == 837678:
-                #     print(mentor_id)
-                #     print(score)
-                #     print(largest_match_score, percentage/100)
                     
 
                 if score > largest_match_score:
@@ -163,12 +158,13 @@ def assignment(scores_matrix_df, mentee_df, mentor_df, mentee_id_list, mentor_id
 
     print(mentor_assigned_count)
     print(mentee_id_list)
-    #test case
-    # for key, value in matched_format.items():
-    #     print(f"Length of list '{key}': {len(value)}")
     
     matched_df = pd.DataFrame(matched_format)
-    matched_df.to_csv('output.csv', index=False)    
+
+
+
+    return matched_df.to_json(orient='records')
+    #matched_df.to_csv('output.csv', index=False)    
 
 
 def matching_scores(mentee_df, mentor_df):
@@ -195,10 +191,9 @@ def matching_scores(mentee_df, mentor_df):
 
     scores_matrix_df.index = mentor_id_list
     scores_matrix_df.to_csv('scores.csv', index=True)
-    assignment(scores_matrix_df, mentee_df, mentor_df, mentee_id_list, mentor_id_list)
-    
+    matched_df = assignment(scores_matrix_df, mentee_df, mentor_df, mentee_id_list, mentor_id_list)
 
-    return scores_matrix_df.to_json()
+    return matched_df
 
 
 #Things to do

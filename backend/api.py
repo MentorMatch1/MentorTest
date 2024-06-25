@@ -20,10 +20,10 @@ async def csv_intake():
         abort(
             400, description="The mentor data or mentee data was not succesfully recieved")
 
-    scores_df_json = matching_scores(mentee_df, mentor_df)
+    matched_df = matching_scores(mentee_df, mentor_df)
 
     response_data = {'message': 'Data Recieved Sucessfully',
-                     'scores': scores_df_json}
+                     'matches': matched_df}
     return jsonify(response_data), 200
 
 if __name__ == '__main__':
