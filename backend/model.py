@@ -202,10 +202,34 @@ def matching_scores(mentee_df, mentor_df):
 #Create script to return CSV of the summary of all Mentors and Mentees matched with how many Mentees for the Mentor
 #Fix Code, More Abstracting (Possibly make Mentors Columns and Mentees Rows?)
 
+def summary_csv(mentor_df, mentee_df, matched_df):
+    #Creating a summary CSV of all Mentors and Mentees matched with how many Mentees for the Mentor
+    '''
+    Arguments:
+    mentor_df: pandas dataframe containing all the mentor information
+    mentee_df: pandas dataframe containing all the mentee information
+    matched_df: pandas dataframe containing all the matched mentors and mentees with their scores
 
+    Returns:
+    A CSV file containing the summary of all Mentors and Mentees matched with how many Mentees for the Mentor.
+
+    This function creates a summary CSV of all Mentors and Mentees matched with how many Mentees for the Mentor.
+    It takes in the mentor_df, mentee_df, and matched_df as input.
+
+    The function creates a dictionary called mentor_summary, which contains the Mentor ID as the key and the number of Mentees matched as the value.
+
+    (Maybe we can add more variables to the mentor_summary dictionary to display more information about the Mentors) or (We use the Mentor ID to extract the information from the mentor_df and display it in the frontend instead of adding that extra information to the CSV file)  
+
+    We can return the summary, the mentor_df and the mentee_df as well.
+
+    It then creates a new CSV file called 'Mentor_Summary.csv' and writes the data from the mentor_summary dictionary into the file.
+
+    This csv file will be used to display the summary of all Mentors and Mentees matched with how many Mentees for the Mentor in the frontend.
+    '''
+    mentor_summary = {}
+   
 
 if __name__ == '__main__':
     mentor_df = pd.read_csv('csv/mentor.csv')
     mentee_df = pd.read_csv('csv/mentee.csv')
     matching_scores(mentee_df, mentor_df)
-
