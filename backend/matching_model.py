@@ -138,18 +138,18 @@ class Matching:
 
                 if index > -1:
                     self.mentee_id_list.remove(mentee_id)
-                    matched_format['Mentee ID'].append(mentee_id)
+                    self.matched_format['Mentee ID'].append(mentee_id)
                     for var in self.mentee_vars[1:]:
-                        matched_format[var].append(
+                        self.matched_format[var].append(
                             self.mentee_df.loc[mentee_id][var])
 
-                    matched_format['Mentor ID'].append(
+                    self.matched_format['Mentor ID'].append(
                         self.mentor_id_list[index])
                     for var in mentor_vars[1:]:
-                        matched_format[var].append(
+                        self.matched_format[var].append(
                             self.mentor_df.loc[self.mentor_id_list[index]][var])
 
-                    matched_format['Score'].append(
+                    self.matched_format['Score'].append(
                         round(largest_match_score, 5))
                     self.mentor_assigned_count[self.mentor_id_list[index]].append(
                         mentee_id)
@@ -165,15 +165,14 @@ class Matching:
         print(self.mentor_assigned_count)
         print(self.mentee_id_list)
 
-        self.matched_df = pd.DataFrame(matched_format)
-        self.matched_df.to_csv('output.csv', orient='records')
-
        
-        return self.matched_df.to_json(orient='records')
+        return self.matched_format
 
     def non_matched(self):
         '''returns all of the individuals who were not matched formatted into csv file'''
         return self.mentee_id_list
+    
+
 
 
 if __name__ == '__main__':

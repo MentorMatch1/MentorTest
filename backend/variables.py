@@ -193,5 +193,5 @@ mentee_vars  = [
     'Mentee Residence',
 ]
 
-JUNIOR_MAX = 4
+JUNIOR_MAX = 5
 SENIOR_MAX = 6
