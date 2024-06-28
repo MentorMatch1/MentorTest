@@ -1,47 +1,42 @@
-from model import create_scores_df, compare_programs, embed_interests, compare_interests, compare_static, assignment
-from variables import mentor_vars, mentee_vars
+from matching_model import Score_Calculator, Matching
+from variables import compatibility_scores, matched_format, mentor_vars, mentee_vars, JUNIOR_MAX, SENIOR_MAX
 import pandas as pd
 
 
-#testing specific cases
 
+# testing specific cases
 if __name__ == '__main__':
     mentor_df = pd.read_csv('csv/mentor.csv')
     mentee_df = pd.read_csv('csv/mentee.csv')
-    scores_df = pd.read_csv('csv/sample_scores.csv')
+    # scores_df = pd.read_csv('csv/sample_scores.csv')
 
-    
 
-    # ---------------------------------------------
-    # CHANGES -------------------------------------
-    # ---------------------------------------------
+    #FUNCTION TEST CASES
 
-    mentee_id_list = list(mentee_df['Mentee ID'])
-    mentor_id_list = list(mentor_df['Mentor ID'])
+    Calc = Score_Calculator(mentor_df, mentee_df, compatibility_scores)
+    scores_df = Calc.score_matrix()
 
-    # removing index
-    mentor_df.set_index('Mentor ID', inplace=True)
-    mentee_df.set_index('Mentee ID', inplace=True)
+    # TEST CASE SCORES_DF is defined
+    assert isinstance(scores_df, pd.DataFrame), "Object is a Pandas DataFrame"
+    print("Defined Case Passed")
 
-    scores_matrix_df = create_scores_df(mentee_id_list, mentor_id_list)
+    # TEST CASE NO ZEROS IN SCORES_DF
+    assert (scores_df != 0).all().all(
+    ), "0's in the scores dataframe (scores_df)"
+    print("All Values greater than 0 Case Passed")
 
-    # Comparing mentors to mentees to get all the scores
-    compare_programs(scores_matrix_df, mentee_df, mentor_df,
-                     mentee_id_list, mentor_id_list)
-    compare_static(scores_matrix_df, mentee_df, mentor_df,
-                   mentee_id_list, mentor_id_list, 'Residence', 0.2)
-    
-    compare_interests(scores_matrix_df, mentee_df, mentor_df,
-                      mentee_id_list, mentor_id_list)
+    # TEST CASE, NO VALUES GREATER THAN 1 in the scores_df
+    assert (scores_df <= 1).all().all(), "A Value of 1 in the scores_df was detected"
+    print("All Values less than 1 Case Passed")
 
-    #scores_matrix_df.to_csv('scores.csv', index=False)
-    assignment(scores_matrix_df, mentee_df, mentor_df, mentee_id_list, mentor_id_list)
-    
-    
-    
-    
+
+
+    # TEST CASE ASSIGNMENT VALUES > 0.60
+
+    match = Matching(mentor_df, mentee_df, scores_df,
+                     matched_format, mentor_vars, mentee_vars)
     
 
 
-
-
+    # match.assignment()
+    print("All Cases Passed")
