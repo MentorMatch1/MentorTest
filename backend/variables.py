@@ -193,5 +193,23 @@ mentee_vars  = [
     'Mentee Residence',
 ]
 
+cohorts = {
+    '1st Year Computer Science Tips': 'This seminar provides first-year computer science students with practical advice on how to navigate their introductory courses, manage coding assignments, and utilize resources such as coding labs and online platforms effectively.',
+    'Getting Started with Classes': 'A comprehensive guide for all first-year students on how to choose, enroll in, and manage their classes. Topics include understanding prerequisites, balancing course loads, and making the most of lectures and tutorials.',
+    'Navigating through University': 'An essential seminar for new students covering campus navigation, understanding university services, accessing academic support, and tips for making a smooth transition from high school to university life.',
+    'First Year Neuroscience Tips': 'Focused on first-year neuroscience students, this session offers insights into tackling challenging coursework, understanding complex concepts, and finding study groups and resources specific to neuroscience.',
+    'Meeting New People 101': 'This seminar helps students overcome social anxiety, build meaningful connections, and engage in campus activities. Topics include joining clubs, participating in events, and networking with peers and faculty.',
+    'First Year Biology Study Guide': 'Aimed at first-year biology students, this guide provides strategies for mastering biological concepts, tips for effective lab work, and advice on utilizing textbooks and online resources for better understanding.',
+    'First Year Physics Study Guide': 'This seminar is designed to assist first-year physics students with study techniques for understanding fundamental principles, solving complex problems, and preparing for lab sessions and exams.',
+    'First Year Chemistry Study Guide': 'Geared towards first-year chemistry students, this session offers advice on handling chemical equations, laboratory safety, report writing, and effective study methods for chemistry courses.',
+    'How to Study in Uni 101': 'A general seminar for all students on developing effective study habits, creating study schedules, using different study techniques, and finding the best study environments to enhance learning.',
+    'Mental Health Tips': 'This crucial seminar focuses on maintaining mental well-being during university. Topics include stress management, recognizing signs of mental health issues, seeking help, and utilizing campus mental health resources.',
+    'Surviving Exam Season': 'Provides strategies for coping with the pressure of exams, including effective revision techniques, time management during exams, dealing with exam anxiety, and understanding the importance of self-care during exam periods.',
+    'Learning Time Management': 'A seminar dedicated to teaching students how to prioritize tasks, manage their time efficiently, and balance academic responsibilities with personal life to ensure a productive and fulfilling university experience.',
+}
+
+
 JUNIOR_MAX = 5
-SENIOR_MAX = 6
+
+
+

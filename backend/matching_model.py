@@ -116,7 +116,7 @@ class Matching:
         # New
         self.mentor_assigned_count = {key: [] for key in self.mentor_id_list}
 
-    def assignment(self):
+    def assignment(self) -> dict:
         for percentage in range(90, 50, -10):
             for mentee_id in list(self.mentee_id_list):
                 score = 0
@@ -165,7 +165,14 @@ class Matching:
         print(self.mentor_assigned_count)
         print(self.mentee_id_list)
 
-       
+        for i in range(len(matched_format['Mentor Residence'])):
+            if(not isinstance(matched_format['Mentor Residence'][i], bool)):
+                matched_format['Mentor Residence'][i] = bool(matched_format['Mentor Residence'][i])
+
+        for i in range(len(matched_format['Mentee Residence'])):
+            if(not isinstance(matched_format['Mentee Residence'][i], bool)):
+                matched_format['Mentee Residence'][i] = bool(matched_format['Mentee Residence'][i])
+
         return self.matched_format
 
     def non_matched(self):

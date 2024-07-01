@@ -1,5 +1,5 @@
 from matching_model import Score_Calculator, Matching
-from variables import compatibility_scores, matched_format, mentor_vars, mentee_vars, JUNIOR_MAX, SENIOR_MAX
+from variables import compatibility_scores, matched_format, mentor_vars, mentee_vars, JUNIOR_MAX
 import pandas as pd
 from variables import JUNIOR_MAX
 
@@ -53,9 +53,24 @@ if __name__ == '__main__':
         assert(len(match.mentor_assigned_count[mentor_id]) <= JUNIOR_MAX), f"One of the mentors has more than JUNIOR_MAX={JUNIOR_MAX}"
     print(f"Mentors amount JUNIOR_MAX={JUNIOR_MAX} case passed")
 
+    # Type 
+    for i in range(len(matched_format['Mentor Residence'])):
+        if(not isinstance(matched_format['Mentor Residence'][i], bool)):
+            matched_format['Mentor Residence'][i] = bool(matched_format['Mentor Residence'][i])
+
+    for i in range(len(matched_format['Mentee Residence'])):
+        if(not isinstance(matched_format['Mentee Residence'][i], bool)):
+            matched_format['Mentee Residence'][i] = bool(matched_format['Mentee Residence'][i])
+
+    print(type(matched_format['Mentee Residence'][0]))
     
 
-    pd.DataFrame(matched_format)
+
+
+    matched_format = pd.DataFrame(matched_format)
+    print(matched_format)
     matched_format.to_csv('csv/output.csv', index=True)
+
+    # COHORT SCRIPT TESTING
 
     print("All Cases Passed")
