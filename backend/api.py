@@ -1,4 +1,5 @@
 from quart import Quart, jsonify, request, abort
+import json
 
 # from quart_cors import cors
 # from quart_auth import AuthManager, login_user, logut_user, current_user, login_required, User
@@ -27,8 +28,11 @@ async def csv_intake():
     matching_instance = Matching(mentor_df, mentee_df, scores_df, matched_format, mentor_vars, mentee_vars)
     matched_df = matching_instance.assignment()
 
+    print(matched_df)
+
+    #using json.dumps(matched_df) to change the dictionary into a json string to prevent the order of dictionary keys/values to be changed
     response_data = {'message': 'Data Recieved Sucessfully',
-                     'matches': matched_df}
+                     'matches': json.dumps(matched_df)}
     return jsonify(response_data), 200
 
 if __name__ == '__main__':
