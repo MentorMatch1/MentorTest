@@ -38,19 +38,15 @@ class Score_Calculator:
     def compare_programs(self):
         for mentor_id in self.mentor_id_list:
             for mentee_id in self.mentee_id_list:
-                mentor_program = self.mentor_df.loc[mentor_id,
-                                                    'Mentor Program']
-                mentee_program = self.mentee_df.loc[mentee_id,
-                                                    'Mentee Program']
+                mentor_program = self.mentor_df.loc[mentor_id,'Mentor Program']
+                mentee_program = self.mentee_df.loc[mentee_id,'Mentee Program']
 
                 self.scores_df.loc[mentor_id, mentee_id] = round(
-                    (self.compatibility_scores[mentor_program][mentee_program] * 0.4) + self.scores_df.loc[mentor_id, mentee_id], 5)
+                    (self.compatibility_scores[mentor_program][mentee_program] * 0.35) + self.scores_df.loc[mentor_id, mentee_id], 5)
 
     def compare_interests(self):
-        embedded_mentor = self.embed_interests(
-            list(self.mentor_df['Mentor Interests']))
-        embedded_mentee = self.embed_interests(
-            list(self.mentee_df['Mentee Interests']))
+        embedded_mentor = self.embed_interests(list(self.mentor_df['Mentor Interests']))
+        embedded_mentee = self.embed_interests(list(self.mentee_df['Mentee Interests']))
 
         similarity_matrix = cosine_similarity(embedded_mentor, embedded_mentee)
         print(similarity_matrix)
@@ -58,7 +54,7 @@ class Score_Calculator:
         for i, mentor_id in enumerate(self.mentor_id_list):
             for j, mentee_id in enumerate(self.mentee_id_list):
                 self.scores_df.loc[mentor_id, mentee_id] = round(
-                    (similarity_matrix[i][j] * 0.4) + self.scores_df.loc[mentor_id, mentee_id], 5)
+                    (similarity_matrix[i][j] * 0.3) + self.scores_df.loc[mentor_id, mentee_id], 5)
 
     def compare_hobbies(self):
         ''' mentee_df[hobbies] and mentor_df[hobbies]
@@ -67,7 +63,17 @@ class Score_Calculator:
         cosine similarity
         
         '''
-        pass
+        embedded_mentor = self.embed_interests(list(self.mentor_df['Mentor Hobbies']))
+        embedded_mentee = self.embed_interests(list(self.mentee_df['Mentee Hobbies']))
+
+        similarity_matrix = cosine_similarity(embedded_mentor, embedded_mentee)
+        print(similarity_matrix)
+
+        for i,mentor_id in enumerate(self.mentor_id_list):
+            for j,mentee_id in enumerate(self.mentee_id_list):
+               self.scores_df.loc[mentor_id,mentee_id] = round(similarity_matrix[i][j] * 0.25 + self.scores_df.loc[mentor_id, mentee_id], 5)
+        
+
 
     def compare_residence(self):
         for mentor_id in self.mentor_id_list:
@@ -77,13 +83,21 @@ class Score_Calculator:
                 mentee_column = self.mentee_df.loc[mentee_id,
                                                    'Mentee Residence']
                 if mentor_column == mentee_column:
-                    self.scores_df.loc[mentor_id, mentee_id] += round(0.2, 2)
+                    self.scores_df.loc[mentor_id, mentee_id] += round(0.1, 1)
 
     def score_matrix(self):
-        '''parameter functions used to calculate the scores, returns the matrix of scores of mentord and mentees'''
+        '''parameter functions used to calculate the scores, returns the matrix of scores of mentors and mentees
+        score key:
+        1. Program of Study 35%
+        2. Program Interests 30%
+        3. Hobbies 25%
+        4. Residence 10%
+
+        '''
 
         self.create_scores_df()
         self.compare_programs()
+        self.compare_hobbies()
         self.compare_interests()
         self.compare_residence()
 
@@ -164,6 +178,7 @@ class Matching:
 
         print(self.mentor_assigned_count)
         print(self.mentee_id_list)
+        print(self.matched_format)
 
         for i in range(len(matched_format['Mentor Residence'])):
             if(not isinstance(matched_format['Mentor Residence'][i], bool)):

@@ -7,8 +7,8 @@ from variables import JUNIOR_MAX
 
 # testing specific cases
 if __name__ == '__main__':
-    mentor_df = pd.read_csv('csv/mentor.csv')
-    mentee_df = pd.read_csv('csv/mentee.csv')
+    mentor_df = pd.read_csv('csv/mentor_2.csv')
+    mentee_df = pd.read_csv('csv/mentee_2.csv')
     # scores_df = pd.read_csv('csv/sample_scores.csv')
 
 
