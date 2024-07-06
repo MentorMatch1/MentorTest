@@ -212,6 +212,15 @@ cohorts = {
     'Learning Time Management': 'A seminar dedicated to teaching students how to prioritize tasks, manage their time efficiently, and balance academic responsibilities with personal life to ensure a productive and fulfilling university experience.',
 }
 
+mentors_matched_data = {
+    'Mentor ID': [],
+    'Mentor Role': [],
+    'Mentor Firstname': [],
+    'Mentor Lastname': [],
+    'Mentor Assigned Count': [],
+    'Mentees Assigned': []
+}
+
 
 JUNIOR_MAX = 5
 
