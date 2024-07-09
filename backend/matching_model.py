@@ -24,7 +24,6 @@ class Score_Calculator:
     def create_scores_df(self):
         self.scores_df = pd.DataFrame(columns=self.mentee_id_list, index=self.mentor_id_list)
         self.scores_df = self.scores_df.fillna(0)
-
         self.scores_df = self.scores_df.astype(float)
 
     def embed_interests(self, interests):
@@ -80,8 +79,7 @@ class Score_Calculator:
                 if mentor_column == mentee_column:
                     self.scores_df.loc[mentor_id, mentee_id] += round(0.1, 1)
 
-    def round_scores(self):
-        self.scores_df = self.scores_df.round(decimals=5)
+    
 
 
     def score_matrix(self):
