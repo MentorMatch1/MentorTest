@@ -72,7 +72,6 @@ class cohortModel:
 
 
         similarity_matrix = cosine_similarity(normalized_request_embeddings, normalized_cohort_embeddings)
-        #similarity_matrix = cosine_similarity(embed_cohort_descriptions, embed_mentee_requests)
         print(similarity_matrix)
 
        
@@ -82,15 +81,12 @@ class cohortModel:
 
         print(self.compatibility_matrix)
 
-
-
-        
-
-
     def cohortScores(self):
 
         self.create_compatibility_matrix()
         self.compare_cohorts_requests()
+
+        return self.compatibility_matrix
 
 
 

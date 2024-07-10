@@ -134,7 +134,7 @@ def assignment(scores_matrix_df, mentee_df, mentor_df, mentee_id_list, mentor_id
             
             if index > -1:
                 mentee_id_list.remove(mentee_id)
-                #print(len(mentee_id_list))
+
                 matched_format['Mentee ID'].append(mentee_id)
                 for var in mentee_vars[1:]:
                     matched_format[var].append(mentee_df.loc[mentee_id][var])
