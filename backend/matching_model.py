@@ -96,7 +96,6 @@ class Score_Calculator:
         self.compare_hobbies()
         self.compare_interests()
         self.compare_residence()
-        self.round_scores()
 
         return self.scores_df
 
@@ -176,16 +175,17 @@ class Matching:
                     print(f"{mentee_id} Could not be matched as their score was less than 0.60 after iterations OR mentor count was full")
                     print('---------------------------')
 
-        print(self.mentor_assigned_count)
-        print(self.mentee_id_list)
+        #print(self.mentor_assigned_count)
+        #print(self.mentee_id_list)
 
-        for i in range(len(matched_format['Mentor Residence'])):
-            if(not isinstance(matched_format['Mentor Residence'][i], bool)):
-                matched_format['Mentor Residence'][i] = bool(matched_format['Mentor Residence'][i])
+        for i in range(len(self.matched_format['Mentor Residence'])):
+            if(not isinstance(self.matched_format['Mentor Residence'][i], bool)):
+                self.matched_format['Mentor Residence'][i] = bool(self.matched_format['Mentor Residence'][i])
 
-        for i in range(len(matched_format['Mentee Residence'])):
-            if(not isinstance(matched_format['Mentee Residence'][i], bool)):
-                matched_format['Mentee Residence'][i] = bool(matched_format['Mentee Residence'][i])
+        for i in range(len(self.matched_format['Mentee Residence'])):
+            if(not isinstance(self.matched_format['Mentee Residence'][i], bool)):
+                self.matched_format['Mentee Residence'][i] = bool(self.matched_format['Mentee Residence'][i])
+
 
         return self.matched_format
 
