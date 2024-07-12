@@ -89,16 +89,29 @@ class cohortModel:
         return self.compatibility_matrix
 
 
-
-
 class assignCohort:
-    def __init__(self, cohortScores, mentee_df):
-        pass
+    def __init__(self, cohortScores):
+        self.cohortScores = cohortScores
+        self.cohortMatchDict = {}
+
+    def assignment(self):
+        for index, row in self.cohortScores.iterrows():
+            # Get the top three values and their corresponding columns
+            top_three = row.nlargest(3)
+            # Store the top three column names in the dictionary
+            self.cohortMatchDict[index] = list(top_three.index)
+        return self.cohortMatchDict
         
 
-if __name__ == '__main__':
+def main():
     mentee_df = pd.read_csv('csv/mentee_2.csv')
     cohort_test = cohortModel(cohorts, mentee_df)
-    cohort_test.cohortScores()
+    
+    cohort_scores = cohort_test.cohortScores()
+    assignCohortInstance = assignCohort(cohort_scores)
+    print(assignCohortInstance.assignment())
+
+if __name__ == "__main__":
+    main()
 
 
