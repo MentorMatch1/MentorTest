@@ -71,7 +71,5 @@ if __name__ == "__main__":
     mentor_matched_data = match.mentor_matches()
     mentor_matched_df = pd.DataFrame(mentor_matched_data)
     mentor_matched_df.to_csv("csv/mentor_matched_data.csv", index=True)
-
     # COHORT SCRIPT TESTING
-
     print("All Cases Passed")
