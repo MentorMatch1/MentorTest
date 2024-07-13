@@ -90,16 +90,35 @@ class cohortModel:
 
 
 class assignCohort:
-    def __init__(self, cohortScores):
+    def __init__(self, cohortScores, mentee_df):
         self.cohortScores = cohortScores
-        self.cohortMatchDict = {}
+        self.cohortMatchDict =  {'mentee_ids': [],
+                                'firstnames': [],
+                                'lastnames': [],
+                                'programs': [],
+                                'assigned_to': [],
+                                'scores': []}
+        self.mentee_df = mentee_df
 
     def assignment(self):
         for index, row in self.cohortScores.iterrows():
             # Get the top three values and their corresponding columns
             top_three = row.nlargest(3)
+            mentee_row = self.mentee_df[self.mentee_df['Mentee ID'] == index]
+            first_name = mentee_row['Mentee Firstname'].values[0]
+            last_name = mentee_row['Mentee Lastname'].values[0]
+            program = mentee_row['Mentee Program'].values[0]
+            assigned_to = list(top_three.index)
+            assigned_to = ", ".join(assigned_to)
+            scores = [round(float(score), 2) for score in top_three.values]
             # Store the top three column names in the dictionary
-            self.cohortMatchDict[index] = list(top_three.index)
+            self.cohortMatchDict['mentee_ids'].append(index)
+            self.cohortMatchDict['firstnames'].append(first_name)
+            self.cohortMatchDict['lastnames'].append(last_name)
+            self.cohortMatchDict['programs'].append(program)
+            self.cohortMatchDict['scores'].append(scores)
+            self.cohortMatchDict['assigned_to'].append(assigned_to)
+
         return self.cohortMatchDict
         
 
@@ -108,8 +127,12 @@ def main():
     cohort_test = cohortModel(cohorts, mentee_df)
     
     cohort_scores = cohort_test.cohortScores()
-    assignCohortInstance = assignCohort(cohort_scores)
-    print(assignCohortInstance.assignment())
+    assignCohortInstance = assignCohort(cohort_scores, mentee_df)
+
+    reccomend_cohort = assignCohortInstance.assignment()
+    print(reccomend_cohort)
+    cohort_assigned = pd.DataFrame(reccomend_cohort)
+    cohort_assigned.to_csv('csv/cohortReccomended.csv',index=True)
 
 if __name__ == "__main__":
     main()

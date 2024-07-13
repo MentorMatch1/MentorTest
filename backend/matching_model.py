@@ -194,7 +194,7 @@ class Matching:
         return self.mentee_id_list
     
     
-    def mentor_matches(self):
+    def mentor_matches(self) -> dict:
         '''takes in all of the mentors that have their matches and lists their match and the amount of people their matched to'''
         mm_data_keys = list(self.mentor_assigned_data.keys())
         for key in self.mentor_assigned_count.keys():
