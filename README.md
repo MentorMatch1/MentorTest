@@ -10,4 +10,3 @@ Commands:
 
 1. docker build -t mentor_test_api .
 2. docker run -p 5001:5001 mentor_test_api
-3. 
