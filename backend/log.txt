@@ -1,0 +1,994 @@
+2024-07-14 00:43:28,427 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:28,505 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:28,661 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:28,764 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:28,896 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:29,026 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:29,109 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:29,278 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:29,373 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:29,499 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:29,618 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:29,709 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:29,878 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:29,966 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:30,086 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:30,214 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:30,323 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:30,486 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:30,585 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:30,735 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:30,864 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:30,940 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:31,106 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:31,202 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:31,337 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:31,458 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:31,544 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:31,702 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:31,790 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:31,912 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:32,049 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:32,140 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:32,325 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:32,433 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:32,596 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:32,737 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:32,849 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:33,057 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:33,170 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:33,302 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:33,446 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:33,549 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:33,726 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:33,822 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:33,950 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:34,070 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:34,162 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:34,326 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:34,430 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:34,559 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:34,689 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:34,765 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:34,926 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:35,018 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:35,143 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:35,266 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:35,374 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:35,538 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:35,623 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:35,751 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:35,870 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:35,944 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:36,110 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:36,198 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:36,345 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:36,466 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:36,553 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:36,718 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:36,822 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:36,943 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:37,066 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:37,153 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:37,338 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:37,430 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:37,554 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:37,682 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:37,760 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:37,930 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:38,022 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:38,146 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:38,276 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:38,371 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:38,534 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:38,622 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:38,746 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:38,898 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:38,980 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:39,142 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:39,242 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:39,358 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:39,482 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:39,569 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:39,730 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:39,818 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:39,948 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:40,074 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:40,152 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:40,318 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:40,422 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:40,570 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:40,690 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:40,773 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:40,947 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:41,029 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:41,154 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:41,502 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:41,648 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:41,942 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:42,170 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:42,382 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:42,582 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:42,778 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:43,078 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:43,266 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:43,463 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:43,634 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:43,760 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:43,978 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:44,142 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:44,363 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:44,526 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:44,731 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:44,994 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:45,166 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:45,375 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:45,586 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:45,794 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:46,058 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:46,226 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:46,413 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:46,578 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:46,686 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:46,882 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:47,013 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:47,161 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:47,358 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:47,487 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:47,718 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:47,830 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:47,982 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:48,126 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:48,269 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:48,506 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:48,637 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:48,838 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:49,010 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:49,124 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:49,330 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:49,474 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:49,619 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:49,834 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:49,974 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:50,206 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:50,362 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:50,534 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:50,706 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:50,843 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:51,082 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:51,251 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:51,421 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:51,686 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:51,824 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:52,042 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:52,177 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:52,359 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:52,541 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:52,715 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:52,930 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:53,070 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:53,255 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:53,430 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:53,562 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:53,806 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:53,962 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:54,152 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:54,334 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:54,484 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:54,798 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:54,942 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:55,128 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:55,334 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:55,503 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:55,717 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:55,893 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:56,076 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:56,246 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:56,388 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:56,606 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:56,751 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:56,926 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:57,114 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:57,240 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:57,530 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:57,714 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:57,900 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:58,086 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:58,236 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:58,466 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:58,622 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:58,860 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:59,074 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:59,210 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:59,432 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:59,577 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:59,763 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:43:59,994 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:44:00,158 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:44:00,381 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:44:00,522 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:44:00,695 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:09,331 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:09,409 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:09,566 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:09,674 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:09,794 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:09,925 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:10,022 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:10,198 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:10,282 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:10,409 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:10,526 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:10,608 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:10,778 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:10,866 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:10,987 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:11,113 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:11,202 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:11,366 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:11,458 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:11,579 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:11,709 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:11,791 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:11,958 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:12,058 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:12,183 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:12,297 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:12,386 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:12,546 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:12,634 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:12,755 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:12,874 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:12,957 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:13,122 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:13,210 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:13,335 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:13,469 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:13,552 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:13,726 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:13,814 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:13,931 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:14,074 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:14,152 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:14,322 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:14,441 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:14,571 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:14,689 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:14,773 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:14,962 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:15,062 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:15,190 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:15,318 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:15,395 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:15,558 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:15,658 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:15,782 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:15,909 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:15,993 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:16,174 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:16,258 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:16,387 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:16,506 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:16,585 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:16,750 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:16,838 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:16,968 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:17,090 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:17,178 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:17,354 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:17,458 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:17,578 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:17,702 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:17,788 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:17,950 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:18,062 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:18,182 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:18,305 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:18,393 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:18,585 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:18,678 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:18,803 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:18,928 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:19,037 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:19,220 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:19,297 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:19,429 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:19,553 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:19,640 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:19,802 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:19,892 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:20,026 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:20,161 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:20,250 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:20,440 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:20,521 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:20,654 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:20,782 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:20,861 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:21,029 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:21,145 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:21,267 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:21,389 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:21,480 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:21,665 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:21,769 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:21,908 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:22,309 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:22,515 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:22,846 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:23,092 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:23,280 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:23,513 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:23,666 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:24,060 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:24,253 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:24,532 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:24,713 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:24,847 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:25,090 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:25,256 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:25,474 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:25,641 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:25,851 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:26,117 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:26,292 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:26,503 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:26,724 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:26,965 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:27,262 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:27,441 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:27,666 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:27,844 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:27,960 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:28,176 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:28,326 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:28,486 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:28,682 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:28,876 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:29,128 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:29,252 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:29,416 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:29,580 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:29,735 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:30,005 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:30,154 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:30,368 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:30,542 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:30,655 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:30,877 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:31,022 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:31,168 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:31,409 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:31,571 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:31,805 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:31,950 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:32,152 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:32,325 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:32,497 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:32,746 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:32,902 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:33,107 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:33,382 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:33,526 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:33,768 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:33,918 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:34,141 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:34,337 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:34,508 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:34,729 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:34,869 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:35,058 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:35,237 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:35,416 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:35,678 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:35,877 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:36,083 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:36,265 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:36,404 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:36,682 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:36,826 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:37,018 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:37,229 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:37,368 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:37,585 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:37,729 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:37,960 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:38,170 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:38,371 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:38,589 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:38,761 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:38,991 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:39,212 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:39,368 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:39,704 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:39,933 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:40,202 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:40,452 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:40,672 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:40,956 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:41,149 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:41,333 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:41,592 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:41,743 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:41,978 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:42,248 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:42,433 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:42,641 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:42,803 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:43,026 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:43,174 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:43,364 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:51,934 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:52,014 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:52,189 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:52,288 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:52,419 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:52,565 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:52,649 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:52,830 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:52,913 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:53,040 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:53,165 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:53,251 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:53,426 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:53,513 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:53,634 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:53,762 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:53,871 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:54,064 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:54,181 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:54,339 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:54,513 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:54,598 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:54,805 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:54,912 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:55,058 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:55,188 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:55,285 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:55,456 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:55,554 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:55,678 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:55,800 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:55,916 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:56,082 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:56,173 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:56,333 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:56,488 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:56,610 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:56,812 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:56,913 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:57,026 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:57,149 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:57,231 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:57,456 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:57,570 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:57,729 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:57,852 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:57,943 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:58,117 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:58,238 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:58,394 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:58,514 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:58,614 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:58,798 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:58,890 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:59,021 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:59,165 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:59,265 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:59,462 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:59,561 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:59,703 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:59,822 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:46:59,896 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:00,108 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:00,213 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:00,346 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:00,477 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:00,600 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:00,760 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:00,865 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:01,006 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:01,164 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:01,267 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:01,477 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:01,578 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:01,699 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:01,823 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:01,902 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:02,085 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:02,182 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:02,308 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:02,457 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:02,536 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:02,697 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:02,789 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:02,943 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:03,101 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:03,197 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:03,381 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:03,473 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:03,599 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:03,740 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:03,837 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:04,025 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:04,138 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:04,294 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:04,437 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:04,518 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:04,717 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:04,818 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:04,940 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:05,088 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:05,188 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:05,397 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:05,485 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:05,607 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:05,981 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:06,139 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:06,445 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:06,689 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:06,875 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:07,078 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:07,273 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:07,580 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:07,812 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:08,058 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:08,253 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:08,411 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:08,641 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:08,816 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:09,060 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:09,244 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:09,539 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:09,829 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:10,021 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:10,240 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:10,464 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:10,683 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:11,042 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:11,302 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:11,522 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:11,698 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:11,818 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:12,018 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:12,172 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:12,320 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:12,514 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:12,716 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:12,950 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:13,069 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:13,230 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:13,376 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:13,543 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:13,814 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:13,985 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:14,243 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:14,425 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:14,546 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:14,757 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:14,909 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:15,052 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:15,262 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:15,424 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:15,666 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:15,812 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:15,992 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:16,186 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:16,330 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:16,626 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:16,793 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:16,975 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:17,258 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:17,406 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:17,646 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:17,797 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:17,984 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:18,182 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:18,352 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:18,578 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:18,729 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:18,928 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:19,106 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:19,240 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:19,474 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:19,634 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:19,827 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:19,998 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:20,148 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:20,434 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:20,606 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:20,796 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:21,006 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:21,197 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:21,410 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:21,573 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:21,817 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:21,993 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:22,141 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:22,362 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:22,513 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:22,704 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:22,894 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:23,018 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:23,309 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:23,506 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:23,699 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:23,890 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:24,059 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:24,334 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:24,480 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:24,654 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:24,890 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:25,066 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:25,306 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:25,473 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:25,695 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:25,901 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:26,078 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:26,309 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:26,469 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:26,654 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 00:47:26,878 - INFO - matching_model - assignment - iteration ------------ 90
+2024-07-14 00:47:26,879 - INFO - matching_model - assignment - 852367 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 00:47:26,879 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 00:47:26,880 - INFO - matching_model - assignment - 435789 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 00:47:26,880 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 00:47:26,881 - INFO - matching_model - assignment - 413923 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 00:47:26,881 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 00:47:26,882 - INFO - matching_model - assignment - 219837 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 00:47:26,882 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 00:47:26,882 - INFO - matching_model - assignment - 573923 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 00:47:26,882 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 00:47:26,884 - INFO - matching_model - assignment - 789234 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 00:47:26,884 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 00:47:26,884 - INFO - matching_model - assignment - 189554 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 00:47:26,884 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 00:47:26,885 - INFO - matching_model - assignment - 837678 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 00:47:26,885 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 00:47:26,886 - INFO - matching_model - assignment - 456239 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 00:47:26,886 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 00:47:26,887 - INFO - matching_model - assignment - 214578 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 00:47:26,887 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 00:47:26,888 - INFO - matching_model - assignment - 879652 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 00:47:26,888 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 00:47:26,889 - INFO - matching_model - assignment - 431300 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 00:47:26,889 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 00:47:26,889 - INFO - matching_model - assignment - 555225 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 00:47:26,889 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 00:47:26,890 - INFO - matching_model - assignment - 471255 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 00:47:26,890 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 00:47:26,891 - INFO - matching_model - assignment - 293135 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 00:47:26,891 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 00:47:26,892 - INFO - matching_model - assignment - 436827 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 00:47:26,892 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 00:47:26,893 - INFO - matching_model - assignment - 812946 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 00:47:26,893 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 00:47:26,894 - INFO - matching_model - assignment - 691223 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 00:47:26,894 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 00:47:26,894 - INFO - matching_model - assignment - 772334 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 00:47:26,894 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 00:47:26,895 - INFO - matching_model - assignment - 812121 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 00:47:26,895 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 00:47:26,896 - INFO - matching_model - assignment - Final Match - Mentee ID: 435612 with Mentor ID: 563895 score: 0.91823
+2024-07-14 00:47:26,896 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 00:47:26,897 - INFO - matching_model - assignment - 789132 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 00:47:26,897 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 00:47:26,898 - INFO - matching_model - assignment - 376339 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 00:47:26,898 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 00:47:26,899 - INFO - matching_model - assignment - 944156 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 00:47:26,899 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 00:47:26,900 - INFO - matching_model - assignment - 272605 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 00:47:26,900 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 00:47:26,901 - INFO - matching_model - assignment - 772328 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 00:47:26,901 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 00:47:26,901 - INFO - matching_model - assignment - 688999 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 00:47:26,901 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 00:47:26,902 - INFO - matching_model - assignment - 445706 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 00:47:26,902 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 00:47:26,903 - INFO - matching_model - assignment - 324750 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 00:47:26,903 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 00:47:26,904 - INFO - matching_model - assignment - 531357 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 00:47:26,904 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 00:47:26,905 - INFO - matching_model - assignment - 800952 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 00:47:26,905 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 00:47:26,906 - INFO - matching_model - assignment - 221366 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 00:47:26,906 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 00:47:26,906 - INFO - matching_model - assignment - 230195 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 00:47:26,907 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 00:47:26,907 - INFO - matching_model - assignment - 259574 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 00:47:26,907 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 00:47:26,908 - INFO - matching_model - assignment - 538723 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 00:47:26,908 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 00:47:26,909 - INFO - matching_model - assignment - 590982 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 00:47:26,909 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 00:47:26,910 - INFO - matching_model - assignment - 378704 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 00:47:26,910 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 00:47:26,911 - INFO - matching_model - assignment - 242893 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 00:47:26,911 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 00:47:26,912 - INFO - matching_model - assignment - 398265 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 00:47:26,912 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 00:47:26,912 - INFO - matching_model - assignment - 920140 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 00:47:26,912 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 00:47:26,913 - INFO - matching_model - assignment - 933079 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 00:47:26,913 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 00:47:26,914 - INFO - matching_model - assignment - 685317 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 00:47:26,914 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 00:47:26,915 - INFO - matching_model - assignment - 609685 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 00:47:26,915 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 00:47:26,916 - INFO - matching_model - assignment - 463029 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 00:47:26,916 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 00:47:26,917 - INFO - matching_model - assignment - 504612 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 00:47:26,917 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 00:47:26,918 - INFO - matching_model - assignment - 808147 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 00:47:26,918 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 00:47:26,918 - INFO - matching_model - assignment - 582453 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 00:47:26,918 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 00:47:26,919 - INFO - matching_model - assignment - 709207 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 00:47:26,919 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 00:47:26,920 - INFO - matching_model - assignment - 609212 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 00:47:26,920 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 00:47:26,921 - INFO - matching_model - assignment - 818181 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 00:47:26,921 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 00:47:26,922 - INFO - matching_model - assignment - 559983 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 00:47:26,922 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 00:47:26,923 - INFO - matching_model - assignment - 690078 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 00:47:26,923 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 00:47:26,923 - INFO - matching_model - assignment - 874655 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 00:47:26,923 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 00:47:26,924 - INFO - matching_model - assignment - 734311 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 00:47:26,924 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 00:47:26,926 - INFO - matching_model - assignment - Final Match - Mentee ID: 739201 with Mentor ID: 138905 score: 0.92249
+2024-07-14 00:47:26,926 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 00:47:26,926 - INFO - matching_model - assignment - 264709 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 00:47:26,926 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 00:47:26,927 - INFO - matching_model - assignment - 738057 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 00:47:26,927 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 00:47:26,928 - INFO - matching_model - assignment - 961096 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 00:47:26,928 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 00:47:26,929 - INFO - matching_model - assignment - 707091 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 00:47:26,929 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 00:47:26,930 - INFO - matching_model - assignment - 576511 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 00:47:26,930 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 00:47:26,931 - INFO - matching_model - assignment - 285313 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 00:47:26,931 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 00:47:26,931 - INFO - matching_model - assignment - Final Match - Mentee ID: 856228 with Mentor ID: 987654 score: 0.90708
+2024-07-14 00:47:26,931 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 00:47:26,932 - INFO - matching_model - assignment - 964220 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 00:47:26,932 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 00:47:26,933 - INFO - matching_model - assignment - 821336 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 00:47:26,933 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 00:47:26,934 - INFO - matching_model - assignment - 367321 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 00:47:26,934 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 00:47:26,935 - INFO - matching_model - assignment - 433216 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 00:47:26,935 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 00:47:26,936 - INFO - matching_model - assignment - 548417 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 00:47:26,936 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 00:47:26,937 - INFO - matching_model - assignment - 868212 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 00:47:26,937 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 00:47:26,937 - INFO - matching_model - assignment - 504078 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 00:47:26,937 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 00:47:26,938 - INFO - matching_model - assignment - 414843 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 00:47:26,938 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 00:47:26,939 - INFO - matching_model - assignment - 181812 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 00:47:26,939 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 00:47:26,940 - INFO - matching_model - assignment - 146754 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 00:47:26,940 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 00:47:26,940 - INFO - matching_model - assignment - 567775 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 00:47:26,941 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 00:47:26,941 - INFO - matching_model - assignment - 312890 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 00:47:26,941 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 00:47:26,942 - INFO - matching_model - assignment - 867217 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 00:47:26,942 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 00:47:26,943 - INFO - matching_model - assignment - 774925 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 00:47:26,943 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 00:47:26,944 - INFO - matching_model - assignment - 145686 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 00:47:26,944 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 00:47:26,945 - INFO - matching_model - assignment - 678267 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 00:47:26,945 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 00:47:26,946 - INFO - matching_model - assignment - 773220 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 00:47:26,946 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 00:47:26,946 - INFO - matching_model - assignment - 362171 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 00:47:26,946 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 00:47:26,947 - INFO - matching_model - assignment - 332056 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 00:47:26,947 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 00:47:26,947 - INFO - matching_model - assignment - iteration ------------ 80
+2024-07-14 00:47:26,948 - INFO - matching_model - assignment - 852367 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 00:47:26,948 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 00:47:26,949 - INFO - matching_model - assignment - 435789 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 00:47:26,949 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 00:47:26,950 - INFO - matching_model - assignment - Final Match - Mentee ID: 413923 with Mentor ID: 532761 score: 0.84549
+2024-07-14 00:47:26,950 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 00:47:26,951 - INFO - matching_model - assignment - Final Match - Mentee ID: 219837 with Mentor ID: 563895 score: 0.82148
+2024-07-14 00:47:26,951 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 00:47:26,951 - INFO - matching_model - assignment - Final Match - Mentee ID: 573923 with Mentor ID: 234567 score: 0.82392
+2024-07-14 00:47:26,951 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 00:47:26,952 - INFO - matching_model - assignment - Final Match - Mentee ID: 789234 with Mentor ID: 256783 score: 0.83646
+2024-07-14 00:47:26,952 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 00:47:26,953 - INFO - matching_model - assignment - Final Match - Mentee ID: 189554 with Mentor ID: 234567 score: 0.8018799999999999
+2024-07-14 00:47:26,953 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 00:47:26,954 - INFO - matching_model - assignment - Final Match - Mentee ID: 837678 with Mentor ID: 256783 score: 0.8525699999999999
+2024-07-14 00:47:26,954 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 00:47:26,955 - INFO - matching_model - assignment - Final Match - Mentee ID: 456239 with Mentor ID: 789012 score: 0.86792
+2024-07-14 00:47:26,955 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 00:47:26,956 - INFO - matching_model - assignment - 214578 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 00:47:26,956 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 00:47:26,956 - INFO - matching_model - assignment - Final Match - Mentee ID: 879652 with Mentor ID: 774208 score: 0.83867
+2024-07-14 00:47:26,956 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 00:47:26,957 - INFO - matching_model - assignment - Final Match - Mentee ID: 431300 with Mentor ID: 638974 score: 0.85741
+2024-07-14 00:47:26,957 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 00:47:26,958 - INFO - matching_model - assignment - Final Match - Mentee ID: 555225 with Mentor ID: 234567 score: 0.83241
+2024-07-14 00:47:26,958 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 00:47:26,959 - INFO - matching_model - assignment - 471255 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 00:47:26,959 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 00:47:26,960 - INFO - matching_model - assignment - Final Match - Mentee ID: 293135 with Mentor ID: 638974 score: 0.84822
+2024-07-14 00:47:26,960 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 00:47:26,960 - INFO - matching_model - assignment - 436827 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 00:47:26,960 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 00:47:26,961 - INFO - matching_model - assignment - 812946 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 00:47:26,961 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 00:47:26,962 - INFO - matching_model - assignment - Final Match - Mentee ID: 691223 with Mentor ID: 876543 score: 0.87656
+2024-07-14 00:47:26,962 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 00:47:26,963 - INFO - matching_model - assignment - Final Match - Mentee ID: 772334 with Mentor ID: 774208 score: 0.85261
+2024-07-14 00:47:26,963 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 00:47:26,964 - INFO - matching_model - assignment - Final Match - Mentee ID: 812121 with Mentor ID: 138905 score: 0.82855
+2024-07-14 00:47:26,964 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 00:47:26,965 - INFO - matching_model - assignment - Final Match - Mentee ID: 789132 with Mentor ID: 789012 score: 0.84821
+2024-07-14 00:47:26,965 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 00:47:26,966 - INFO - matching_model - assignment - Final Match - Mentee ID: 376339 with Mentor ID: 830915 score: 0.82813
+2024-07-14 00:47:26,966 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 00:47:26,966 - INFO - matching_model - assignment - Final Match - Mentee ID: 944156 with Mentor ID: 532761 score: 0.8914099999999999
+2024-07-14 00:47:26,966 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 00:47:26,967 - INFO - matching_model - assignment - 272605 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 00:47:26,967 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 00:47:26,968 - INFO - matching_model - assignment - 772328 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 00:47:26,968 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 00:47:26,969 - INFO - matching_model - assignment - Final Match - Mentee ID: 688999 with Mentor ID: 774208 score: 0.8371
+2024-07-14 00:47:26,969 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 00:47:26,970 - INFO - matching_model - assignment - Final Match - Mentee ID: 445706 with Mentor ID: 345678 score: 0.88264
+2024-07-14 00:47:26,970 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 00:47:26,971 - INFO - matching_model - assignment - Final Match - Mentee ID: 324750 with Mentor ID: 345678 score: 0.80501
+2024-07-14 00:47:26,971 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 00:47:26,972 - INFO - matching_model - assignment - Final Match - Mentee ID: 531357 with Mentor ID: 876543 score: 0.87505
+2024-07-14 00:47:26,972 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 00:47:26,972 - INFO - matching_model - assignment - Final Match - Mentee ID: 800952 with Mentor ID: 298765 score: 0.82183
+2024-07-14 00:47:26,973 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 00:47:26,973 - INFO - matching_model - assignment - Final Match - Mentee ID: 221366 with Mentor ID: 891553 score: 0.8993599999999999
+2024-07-14 00:47:26,973 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 00:47:26,974 - INFO - matching_model - assignment - Final Match - Mentee ID: 230195 with Mentor ID: 312345 score: 0.89977
+2024-07-14 00:47:26,974 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 00:47:26,975 - INFO - matching_model - assignment - Final Match - Mentee ID: 259574 with Mentor ID: 891553 score: 0.8461299999999999
+2024-07-14 00:47:26,975 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 00:47:26,976 - INFO - matching_model - assignment - 538723 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 00:47:26,976 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 00:47:26,977 - INFO - matching_model - assignment - 590982 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 00:47:26,977 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 00:47:26,978 - INFO - matching_model - assignment - Final Match - Mentee ID: 378704 with Mentor ID: 774208 score: 0.86192
+2024-07-14 00:47:26,978 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 00:47:26,978 - INFO - matching_model - assignment - Final Match - Mentee ID: 242893 with Mentor ID: 123456 score: 0.82039
+2024-07-14 00:47:26,978 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 00:47:26,979 - INFO - matching_model - assignment - Final Match - Mentee ID: 398265 with Mentor ID: 312345 score: 0.89535
+2024-07-14 00:47:26,979 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 00:47:26,980 - INFO - matching_model - assignment - Final Match - Mentee ID: 920140 with Mentor ID: 891553 score: 0.89774
+2024-07-14 00:47:26,980 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 00:47:26,981 - INFO - matching_model - assignment - 933079 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 00:47:26,981 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 00:47:26,982 - INFO - matching_model - assignment - Final Match - Mentee ID: 685317 with Mentor ID: 638974 score: 0.86413
+2024-07-14 00:47:26,982 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 00:47:26,983 - INFO - matching_model - assignment - Final Match - Mentee ID: 609685 with Mentor ID: 407933 score: 0.88249
+2024-07-14 00:47:26,983 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 00:47:26,984 - INFO - matching_model - assignment - Final Match - Mentee ID: 463029 with Mentor ID: 809433 score: 0.80269
+2024-07-14 00:47:26,984 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 00:47:26,985 - INFO - matching_model - assignment - 504612 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 00:47:26,985 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 00:47:26,986 - INFO - matching_model - assignment - 808147 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 00:47:26,986 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 00:47:26,987 - INFO - matching_model - assignment - Final Match - Mentee ID: 582453 with Mentor ID: 638974 score: 0.80224
+2024-07-14 00:47:26,987 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 00:47:26,987 - INFO - matching_model - assignment - 709207 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 00:47:26,987 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 00:47:26,989 - INFO - matching_model - assignment - Final Match - Mentee ID: 609212 with Mentor ID: 830915 score: 0.8650599999999999
+2024-07-14 00:47:26,989 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 00:47:26,990 - INFO - matching_model - assignment - Final Match - Mentee ID: 818181 with Mentor ID: 408954 score: 0.8503999999999999
+2024-07-14 00:47:26,990 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 00:47:26,991 - INFO - matching_model - assignment - Final Match - Mentee ID: 559983 with Mentor ID: 328403 score: 0.84161
+2024-07-14 00:47:26,991 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 00:47:26,992 - INFO - matching_model - assignment - Final Match - Mentee ID: 690078 with Mentor ID: 417382 score: 0.81757
+2024-07-14 00:47:26,992 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 00:47:26,992 - INFO - matching_model - assignment - Final Match - Mentee ID: 874655 with Mentor ID: 417382 score: 0.80431
+2024-07-14 00:47:26,992 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 00:47:26,994 - INFO - matching_model - assignment - Final Match - Mentee ID: 734311 with Mentor ID: 328403 score: 0.81808
+2024-07-14 00:47:26,994 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 00:47:26,995 - INFO - matching_model - assignment - Final Match - Mentee ID: 264709 with Mentor ID: 408954 score: 0.80611
+2024-07-14 00:47:26,995 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 00:47:26,996 - INFO - matching_model - assignment - Final Match - Mentee ID: 738057 with Mentor ID: 234567 score: 0.80712
+2024-07-14 00:47:26,996 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 00:47:26,997 - INFO - matching_model - assignment - Final Match - Mentee ID: 961096 with Mentor ID: 876543 score: 0.8575499999999999
+2024-07-14 00:47:26,997 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 00:47:26,998 - INFO - matching_model - assignment - 707091 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 00:47:26,998 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 00:47:26,998 - INFO - matching_model - assignment - Final Match - Mentee ID: 576511 with Mentor ID: 234567 score: 0.88676
+2024-07-14 00:47:26,998 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 00:47:26,999 - INFO - matching_model - assignment - Final Match - Mentee ID: 285313 with Mentor ID: 383650 score: 0.86712
+2024-07-14 00:47:26,999 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 00:47:27,000 - INFO - matching_model - assignment - Final Match - Mentee ID: 964220 with Mentor ID: 876543 score: 0.86032
+2024-07-14 00:47:27,000 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 00:47:27,001 - INFO - matching_model - assignment - Final Match - Mentee ID: 821336 with Mentor ID: 563895 score: 0.84788
+2024-07-14 00:47:27,001 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 00:47:27,002 - INFO - matching_model - assignment - Final Match - Mentee ID: 367321 with Mentor ID: 408954 score: 0.82311
+2024-07-14 00:47:27,002 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 00:47:27,004 - INFO - matching_model - assignment - Final Match - Mentee ID: 433216 with Mentor ID: 891553 score: 0.84277
+2024-07-14 00:47:27,004 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 00:47:27,005 - INFO - matching_model - assignment - 548417 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 00:47:27,005 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 00:47:27,005 - INFO - matching_model - assignment - Final Match - Mentee ID: 868212 with Mentor ID: 345678 score: 0.87361
+2024-07-14 00:47:27,005 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 00:47:27,006 - INFO - matching_model - assignment - 504078 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 00:47:27,006 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 00:47:27,008 - INFO - matching_model - assignment - Final Match - Mentee ID: 414843 with Mentor ID: 891553 score: 0.82344
+2024-07-14 00:47:27,008 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 00:47:27,008 - INFO - matching_model - assignment - Final Match - Mentee ID: 181812 with Mentor ID: 312345 score: 0.84537
+2024-07-14 00:47:27,008 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 00:47:27,009 - INFO - matching_model - assignment - Final Match - Mentee ID: 146754 with Mentor ID: 235951 score: 0.81592
+2024-07-14 00:47:27,009 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 00:47:27,010 - INFO - matching_model - assignment - Final Match - Mentee ID: 567775 with Mentor ID: 328403 score: 0.85093
+2024-07-14 00:47:27,010 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 00:47:27,011 - INFO - matching_model - assignment - Final Match - Mentee ID: 312890 with Mentor ID: 789012 score: 0.8422999999999999
+2024-07-14 00:47:27,011 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 00:47:27,012 - INFO - matching_model - assignment - Final Match - Mentee ID: 867217 with Mentor ID: 235951 score: 0.85898
+2024-07-14 00:47:27,012 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 00:47:27,013 - INFO - matching_model - assignment - Final Match - Mentee ID: 774925 with Mentor ID: 328403 score: 0.87422
+2024-07-14 00:47:27,013 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 00:47:27,015 - INFO - matching_model - assignment - Final Match - Mentee ID: 145686 with Mentor ID: 407933 score: 0.85537
+2024-07-14 00:47:27,015 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 00:47:27,016 - INFO - matching_model - assignment - 678267 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 00:47:27,016 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 00:47:27,017 - INFO - matching_model - assignment - Final Match - Mentee ID: 773220 with Mentor ID: 809433 score: 0.86517
+2024-07-14 00:47:27,017 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 00:47:27,018 - INFO - matching_model - assignment - Final Match - Mentee ID: 362171 with Mentor ID: 417382 score: 0.83992
+2024-07-14 00:47:27,018 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 00:47:27,019 - INFO - matching_model - assignment - 332056 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 00:47:27,019 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 00:47:27,019 - INFO - matching_model - assignment - iteration ------------ 70
+2024-07-14 00:47:27,020 - INFO - matching_model - assignment - Final Match - Mentee ID: 852367 with Mentor ID: 809433 score: 0.74071
+2024-07-14 00:47:27,020 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 00:47:27,021 - INFO - matching_model - assignment - Final Match - Mentee ID: 435789 with Mentor ID: 876543 score: 0.74758
+2024-07-14 00:47:27,021 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 00:47:27,022 - INFO - matching_model - assignment - Final Match - Mentee ID: 214578 with Mentor ID: 563895 score: 0.7886
+2024-07-14 00:47:27,022 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 00:47:27,023 - INFO - matching_model - assignment - Final Match - Mentee ID: 471255 with Mentor ID: 789012 score: 0.71793
+2024-07-14 00:47:27,023 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 00:47:27,024 - INFO - matching_model - assignment - Final Match - Mentee ID: 436827 with Mentor ID: 123456 score: 0.7986599999999999
+2024-07-14 00:47:27,024 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 00:47:27,025 - INFO - matching_model - assignment - Final Match - Mentee ID: 812946 with Mentor ID: 638974 score: 0.77933
+2024-07-14 00:47:27,025 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 00:47:27,026 - INFO - matching_model - assignment - Final Match - Mentee ID: 272605 with Mentor ID: 830915 score: 0.75546
+2024-07-14 00:47:27,026 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 00:47:27,027 - INFO - matching_model - assignment - Final Match - Mentee ID: 772328 with Mentor ID: 328403 score: 0.79692
+2024-07-14 00:47:27,027 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 00:47:27,028 - INFO - matching_model - assignment - Final Match - Mentee ID: 538723 with Mentor ID: 345678 score: 0.7948
+2024-07-14 00:47:27,028 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 00:47:27,029 - INFO - matching_model - assignment - 590982 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 00:47:27,029 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 00:47:27,030 - INFO - matching_model - assignment - 933079 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 00:47:27,030 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 00:47:27,030 - INFO - matching_model - assignment - Final Match - Mentee ID: 504612 with Mentor ID: 987654 score: 0.74307
+2024-07-14 00:47:27,030 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 00:47:27,031 - INFO - matching_model - assignment - Final Match - Mentee ID: 808147 with Mentor ID: 408954 score: 0.71422
+2024-07-14 00:47:27,032 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 00:47:27,032 - INFO - matching_model - assignment - Final Match - Mentee ID: 709207 with Mentor ID: 383650 score: 0.7283
+2024-07-14 00:47:27,032 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 00:47:27,033 - INFO - matching_model - assignment - Final Match - Mentee ID: 707091 with Mentor ID: 532761 score: 0.77837
+2024-07-14 00:47:27,033 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 00:47:27,034 - INFO - matching_model - assignment - Final Match - Mentee ID: 548417 with Mentor ID: 298765 score: 0.79852
+2024-07-14 00:47:27,034 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 00:47:27,035 - INFO - matching_model - assignment - Final Match - Mentee ID: 504078 with Mentor ID: 417382 score: 0.79869
+2024-07-14 00:47:27,035 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 00:47:27,036 - INFO - matching_model - assignment - Final Match - Mentee ID: 678267 with Mentor ID: 789012 score: 0.7520899999999999
+2024-07-14 00:47:27,036 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 00:47:27,037 - INFO - matching_model - assignment - Final Match - Mentee ID: 332056 with Mentor ID: 408954 score: 0.70505
+2024-07-14 00:47:27,037 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 00:47:27,037 - INFO - matching_model - assignment - iteration ------------ 60
+2024-07-14 00:47:27,038 - INFO - matching_model - assignment - Final Match - Mentee ID: 590982 with Mentor ID: 830915 score: 0.64889
+2024-07-14 00:47:27,038 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 00:47:27,040 - INFO - matching_model - assignment - Final Match - Mentee ID: 933079 with Mentor ID: 830915 score: 0.6942499999999999
+2024-07-14 00:47:27,040 - INFO - matching_model - assignment - ------------------------------------------------
