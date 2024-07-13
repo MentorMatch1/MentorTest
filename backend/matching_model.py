@@ -3,7 +3,6 @@ from variables import (
     matched_format,
     mentor_vars,
     mentee_vars,
-    JUNIOR_MAX,
     mentors_matched_data,
 )
 import ollama
@@ -12,6 +11,7 @@ import pandas as pd
 from sklearn.metrics.pairwise import cosine_similarity
 import copy
 from logger import logger
+from config_manager import get_config
 
 pd.set_option("future.no_silent_downcasting", True)
 
@@ -186,11 +186,11 @@ class Matching:
                     score = self.scores_df.loc[mentor_id, mentee_id]
 
                     if score > largest_match_score:
-
                         if (
                             self.mentor_df.loc[mentor_id]["Mentor Role"]
                             == "Junior Science Mentor"
-                            and len(self.mentor_assigned_count[mentor_id]) < JUNIOR_MAX
+                            and len(self.mentor_assigned_count[mentor_id])
+                            < get_config("JUNIOR_MAX", 5)
                             and mentee_id not in self.mentor_assigned_count[mentor_id]
                             and score >= percentage / 100
                         ):
@@ -223,7 +223,6 @@ class Matching:
         """takes in all of the mentors that have their matches and lists their match and the amount of people their matched to"""
         mm_data_keys = list(self.mentor_assigned_data.keys())
         for key in self.mentor_assigned_count.keys():
-
             # iterates through all of the mentors_matched_data keys except for 'Mentor Assigned Count', 'Assigned to'
             self.mentor_assigned_data["Mentor ID"].append(key)
             for i in range(1, len(mm_data_keys) - 2):
@@ -242,7 +241,6 @@ class Matching:
 
 
 if __name__ == "__main__":
-
     mentor_df = pd.read_csv("csv/mentor.csv")
     mentee_df = pd.read_csv("csv/mentee.csv")
 

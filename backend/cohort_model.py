@@ -36,33 +36,7 @@ class cohortModel:
         self.compatibility_matrix = self.compatibility_matrix.fillna(0)
         self.compatibility_matrix = self.compatibility_matrix.astype(float)
 
-    # def compare_cohorts_requests_2(self):
-
-    #     embedding_weight = 0.9
-    #     tfidf_weight = 0.1
-
-    #     embed_cohort_descriptions = self.embed_descriptions(list(cohorts.values()))
-    #     embed_mentee_requests = self.embed_descriptions(list(self.mentee_df['Mentee Requests']))
-
-    #     combined_texts = list(cohorts.values()) + list(self.mentee_df['Mentee Requests'])
-
-    #     tfidf_vectorizer = TfidfVectorizer(stop_words='english')
-    #     tfidf_matrix = tfidf_vectorizer.fit_transform(combined_texts).toarray()
-
-    #     tf_idf_descriptions = tfidf_matrix[:len(cohorts)].copy()
-    #     tf_idf_requests = tfidf_matrix[len(cohorts):].copy()
-
-    #     normalized_cohort_embeddings = normalize(embed_cohort_descriptions, norm='l2')
-    #     normalized_request_embeddings = normalize(embed_mentee_requests, norm='l2')
-
-    #     combined_cohort = np.hstack((normalized_cohort_embeddings * embedding_weight, tf_idf_descriptions * tfidf_weight))
-    #     combined_requests = np.hstack((normalized_request_embeddings * embedding_weight, tf_idf_requests * tfidf_weight))
-
-    #     similarity_matrix = cosine_similarity(combined_cohort, combined_requests)
-    #     print(similarity_matrix)
-
     def compare_cohorts_requests(self):
-
         embed_cohort_descriptions = self.embed_descriptions(list(cohorts.values()))
         embed_mentee_requests = self.embed_descriptions(
             list(self.mentee_df["Mentee Requests"])
@@ -74,7 +48,6 @@ class cohortModel:
         similarity_matrix = cosine_similarity(
             normalized_request_embeddings, normalized_cohort_embeddings
         )
-        print(similarity_matrix)
 
         for i, mentee_id in enumerate(self.mentee_id_list):
             for j, cohort in enumerate(cohorts.keys()):
@@ -82,10 +55,7 @@ class cohortModel:
                     i
                 ][j]
 
-        print(self.compatibility_matrix)
-
     def cohortScores(self):
-
         self.create_compatibility_matrix()
         self.compare_cohorts_requests()
 
@@ -128,7 +98,7 @@ class assignCohort:
 
 
 def main():
-    mentee_df = pd.read_csv("csv/mentee_2.csv")
+    mentee_df = pd.read_csv("csv/mentee.csv")
     cohort_test = cohortModel(cohorts, mentee_df)
 
     cohort_scores = cohort_test.cohortScores()

@@ -2,7 +2,7 @@ FROM python:3.10
 
 WORKDIR /mentortest
 
-COPY requirements.txt .
+COPY ../requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
 
 RUN curl -fsSL https://ollama.com/install.sh | sh
@@ -25,7 +25,4 @@ RUN apt-get update && apt-get install -y dos2unix \
 
 ENTRYPOINT ["/mentortest/start_ollama.sh"]
 
-CMD ["python3", "api.py"]
-
-#docker build -t mentor_test_api .
-#docker run -p 5001:5001 mentor_test_api 
+CMD ["python3", "app.py"]

@@ -992,3 +992,577 @@
 2024-07-14 00:47:27,038 - INFO - matching_model - assignment - ------------------------------------------------
 2024-07-14 00:47:27,040 - INFO - matching_model - assignment - Final Match - Mentee ID: 933079 with Mentor ID: 830915 score: 0.6942499999999999
 2024-07-14 00:47:27,040 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 01:27:02,878 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:02,978 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:03,138 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:03,234 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:03,354 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:03,481 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:03,564 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:03,734 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:03,841 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:03,967 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:04,093 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:04,178 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:04,348 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:04,448 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:04,586 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:04,765 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:04,869 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:05,028 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:05,120 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:05,234 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:05,392 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:05,508 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:05,689 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:05,832 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:06,001 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:06,141 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:06,245 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:06,424 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:06,536 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:06,675 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:06,813 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:06,900 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:07,068 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:07,180 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:07,327 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:07,472 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:07,563 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:07,738 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:07,818 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:07,942 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:08,070 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:08,147 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:08,354 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:08,438 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:08,566 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:08,690 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:08,772 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:08,934 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:09,026 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:09,154 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:09,298 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:09,381 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:09,542 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:09,625 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:09,751 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:09,878 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:09,962 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:10,136 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:10,229 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:10,371 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:10,490 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:10,586 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:10,790 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:10,894 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:11,080 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:11,201 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:11,290 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:11,454 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:11,565 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:11,691 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:11,841 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:11,974 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:12,165 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:12,277 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:12,405 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:12,553 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:12,633 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:12,813 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:12,902 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:13,041 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:13,170 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:13,248 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:13,408 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:13,513 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:13,643 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:13,770 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:13,856 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:14,025 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:14,114 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:14,231 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:14,358 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:14,452 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:14,619 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:14,714 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:14,845 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:14,988 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:15,064 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:15,238 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:15,326 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:15,450 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:15,589 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:15,673 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:15,850 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:15,926 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:16,048 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:16,396 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:16,535 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:16,837 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:17,038 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:17,269 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:17,509 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:17,682 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:17,957 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:18,142 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:18,384 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:18,611 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:18,732 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:18,962 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:19,113 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:19,359 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:19,546 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:19,746 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:20,006 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:20,252 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:20,564 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:20,796 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:20,961 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:21,234 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:21,409 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:21,639 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:21,873 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:21,980 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:22,198 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:22,386 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:22,574 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:22,782 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:22,916 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:23,134 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:23,265 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:23,423 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:23,573 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:23,713 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:23,950 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:24,110 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:24,305 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:24,477 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:24,593 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:24,794 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:24,989 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:25,178 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:25,421 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:25,629 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:25,873 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:26,009 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:26,242 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:26,455 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:26,620 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:26,874 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:27,037 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:27,229 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:27,553 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:27,690 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:27,910 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:28,049 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:28,226 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:28,414 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:28,571 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:28,782 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:28,925 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:29,115 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:29,293 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:29,442 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:29,698 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:29,897 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:30,181 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:30,385 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:30,552 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:30,822 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:30,966 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:31,152 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:31,382 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:31,535 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:31,794 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:31,984 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:32,169 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:32,344 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:32,470 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:32,692 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:32,885 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:33,073 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:33,270 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:33,389 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:33,674 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:33,922 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:34,146 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:34,361 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:34,520 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:34,758 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:34,901 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:35,115 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:35,352 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:35,497 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:35,745 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:35,901 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:36,081 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:36,289 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:36,446 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:36,672 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:36,824 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:37,020 - INFO - _client - _send_single_request - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2024-07-14 01:27:37,256 - INFO - matching_model - assignment - iteration ------------ 90
+2024-07-14 01:27:37,257 - INFO - matching_model - assignment - 852367 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 01:27:37,257 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 01:27:37,257 - INFO - matching_model - assignment - 435789 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 01:27:37,257 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 01:27:37,258 - INFO - matching_model - assignment - 413923 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 01:27:37,258 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 01:27:37,259 - INFO - matching_model - assignment - 219837 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 01:27:37,259 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 01:27:37,259 - INFO - matching_model - assignment - 573923 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 01:27:37,259 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 01:27:37,260 - INFO - matching_model - assignment - 789234 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 01:27:37,260 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 01:27:37,261 - INFO - matching_model - assignment - 189554 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 01:27:37,261 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 01:27:37,261 - INFO - matching_model - assignment - 837678 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 01:27:37,261 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 01:27:37,262 - INFO - matching_model - assignment - 456239 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 01:27:37,262 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 01:27:37,263 - INFO - matching_model - assignment - 214578 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 01:27:37,263 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 01:27:37,263 - INFO - matching_model - assignment - 879652 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 01:27:37,263 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 01:27:37,264 - INFO - matching_model - assignment - 431300 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 01:27:37,264 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 01:27:37,265 - INFO - matching_model - assignment - 555225 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 01:27:37,265 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 01:27:37,265 - INFO - matching_model - assignment - 471255 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 01:27:37,265 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 01:27:37,266 - INFO - matching_model - assignment - 293135 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 01:27:37,266 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 01:27:37,267 - INFO - matching_model - assignment - 436827 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 01:27:37,267 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 01:27:37,267 - INFO - matching_model - assignment - 812946 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 01:27:37,267 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 01:27:37,268 - INFO - matching_model - assignment - 691223 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 01:27:37,268 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 01:27:37,269 - INFO - matching_model - assignment - 772334 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 01:27:37,269 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 01:27:37,270 - INFO - matching_model - assignment - 812121 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 01:27:37,270 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 01:27:37,270 - INFO - matching_model - assignment - Final Match - Mentee ID: 435612 with Mentor ID: 563895 score: 0.91823
+2024-07-14 01:27:37,270 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 01:27:37,271 - INFO - matching_model - assignment - 789132 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 01:27:37,271 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 01:27:37,272 - INFO - matching_model - assignment - 376339 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 01:27:37,272 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 01:27:37,272 - INFO - matching_model - assignment - 944156 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 01:27:37,272 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 01:27:37,273 - INFO - matching_model - assignment - 272605 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 01:27:37,273 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 01:27:37,274 - INFO - matching_model - assignment - 772328 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 01:27:37,274 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 01:27:37,274 - INFO - matching_model - assignment - 688999 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 01:27:37,274 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 01:27:37,275 - INFO - matching_model - assignment - 445706 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 01:27:37,275 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 01:27:37,276 - INFO - matching_model - assignment - 324750 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 01:27:37,276 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 01:27:37,276 - INFO - matching_model - assignment - 531357 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 01:27:37,276 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 01:27:37,277 - INFO - matching_model - assignment - 800952 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 01:27:37,277 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 01:27:37,278 - INFO - matching_model - assignment - 221366 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 01:27:37,278 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 01:27:37,278 - INFO - matching_model - assignment - 230195 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 01:27:37,278 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 01:27:37,279 - INFO - matching_model - assignment - 259574 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 01:27:37,279 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 01:27:37,280 - INFO - matching_model - assignment - 538723 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 01:27:37,280 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 01:27:37,280 - INFO - matching_model - assignment - 590982 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 01:27:37,280 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 01:27:37,281 - INFO - matching_model - assignment - 378704 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 01:27:37,281 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 01:27:37,282 - INFO - matching_model - assignment - 242893 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 01:27:37,282 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 01:27:37,282 - INFO - matching_model - assignment - 398265 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 01:27:37,282 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 01:27:37,283 - INFO - matching_model - assignment - 920140 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 01:27:37,283 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 01:27:37,284 - INFO - matching_model - assignment - 933079 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 01:27:37,284 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 01:27:37,284 - INFO - matching_model - assignment - 685317 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 01:27:37,284 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 01:27:37,285 - INFO - matching_model - assignment - 609685 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 01:27:37,285 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 01:27:37,286 - INFO - matching_model - assignment - 463029 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 01:27:37,286 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 01:27:37,286 - INFO - matching_model - assignment - 504612 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 01:27:37,286 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 01:27:37,287 - INFO - matching_model - assignment - 808147 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 01:27:37,287 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 01:27:37,288 - INFO - matching_model - assignment - 582453 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 01:27:37,288 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 01:27:37,289 - INFO - matching_model - assignment - 709207 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 01:27:37,289 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 01:27:37,289 - INFO - matching_model - assignment - 609212 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 01:27:37,289 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 01:27:37,290 - INFO - matching_model - assignment - 818181 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 01:27:37,290 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 01:27:37,291 - INFO - matching_model - assignment - 559983 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 01:27:37,291 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 01:27:37,291 - INFO - matching_model - assignment - 690078 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 01:27:37,291 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 01:27:37,292 - INFO - matching_model - assignment - 874655 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 01:27:37,292 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 01:27:37,292 - INFO - matching_model - assignment - 734311 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 01:27:37,292 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 01:27:37,293 - INFO - matching_model - assignment - Final Match - Mentee ID: 739201 with Mentor ID: 138905 score: 0.92249
+2024-07-14 01:27:37,294 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 01:27:37,294 - INFO - matching_model - assignment - 264709 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 01:27:37,294 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 01:27:37,295 - INFO - matching_model - assignment - 738057 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 01:27:37,295 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 01:27:37,296 - INFO - matching_model - assignment - 961096 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 01:27:37,296 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 01:27:37,296 - INFO - matching_model - assignment - 707091 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 01:27:37,296 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 01:27:37,297 - INFO - matching_model - assignment - 576511 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 01:27:37,297 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 01:27:37,298 - INFO - matching_model - assignment - 285313 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 01:27:37,298 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 01:27:37,298 - INFO - matching_model - assignment - Final Match - Mentee ID: 856228 with Mentor ID: 987654 score: 0.90708
+2024-07-14 01:27:37,298 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 01:27:37,299 - INFO - matching_model - assignment - 964220 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 01:27:37,299 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 01:27:37,299 - INFO - matching_model - assignment - 821336 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 01:27:37,299 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 01:27:37,300 - INFO - matching_model - assignment - 367321 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 01:27:37,300 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 01:27:37,301 - INFO - matching_model - assignment - 433216 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 01:27:37,301 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 01:27:37,302 - INFO - matching_model - assignment - 548417 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 01:27:37,302 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 01:27:37,302 - INFO - matching_model - assignment - 868212 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 01:27:37,302 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 01:27:37,303 - INFO - matching_model - assignment - 504078 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 01:27:37,303 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 01:27:37,303 - INFO - matching_model - assignment - 414843 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 01:27:37,304 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 01:27:37,304 - INFO - matching_model - assignment - 181812 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 01:27:37,304 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 01:27:37,305 - INFO - matching_model - assignment - 146754 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 01:27:37,305 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 01:27:37,305 - INFO - matching_model - assignment - 567775 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 01:27:37,305 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 01:27:37,306 - INFO - matching_model - assignment - 312890 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 01:27:37,306 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 01:27:37,307 - INFO - matching_model - assignment - 867217 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 01:27:37,307 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 01:27:37,307 - INFO - matching_model - assignment - 774925 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 01:27:37,307 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 01:27:37,308 - INFO - matching_model - assignment - 145686 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 01:27:37,308 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 01:27:37,309 - INFO - matching_model - assignment - 678267 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 01:27:37,309 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 01:27:37,310 - INFO - matching_model - assignment - 773220 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 01:27:37,310 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 01:27:37,310 - INFO - matching_model - assignment - 362171 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 01:27:37,310 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 01:27:37,311 - INFO - matching_model - assignment - 332056 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 01:27:37,311 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 01:27:37,311 - INFO - matching_model - assignment - iteration ------------ 80
+2024-07-14 01:27:37,311 - INFO - matching_model - assignment - 852367 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 01:27:37,311 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 01:27:37,312 - INFO - matching_model - assignment - 435789 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 01:27:37,312 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 01:27:37,313 - INFO - matching_model - assignment - Final Match - Mentee ID: 413923 with Mentor ID: 532761 score: 0.84549
+2024-07-14 01:27:37,313 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 01:27:37,313 - INFO - matching_model - assignment - Final Match - Mentee ID: 219837 with Mentor ID: 563895 score: 0.82148
+2024-07-14 01:27:37,313 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 01:27:37,314 - INFO - matching_model - assignment - Final Match - Mentee ID: 573923 with Mentor ID: 234567 score: 0.82392
+2024-07-14 01:27:37,314 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 01:27:37,315 - INFO - matching_model - assignment - Final Match - Mentee ID: 789234 with Mentor ID: 256783 score: 0.83646
+2024-07-14 01:27:37,315 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 01:27:37,315 - INFO - matching_model - assignment - Final Match - Mentee ID: 189554 with Mentor ID: 234567 score: 0.8018799999999999
+2024-07-14 01:27:37,315 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 01:27:37,316 - INFO - matching_model - assignment - Final Match - Mentee ID: 837678 with Mentor ID: 256783 score: 0.8525699999999999
+2024-07-14 01:27:37,316 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 01:27:37,317 - INFO - matching_model - assignment - Final Match - Mentee ID: 456239 with Mentor ID: 789012 score: 0.86792
+2024-07-14 01:27:37,317 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 01:27:37,317 - INFO - matching_model - assignment - 214578 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 01:27:37,317 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 01:27:37,318 - INFO - matching_model - assignment - Final Match - Mentee ID: 879652 with Mentor ID: 774208 score: 0.83867
+2024-07-14 01:27:37,318 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 01:27:37,318 - INFO - matching_model - assignment - Final Match - Mentee ID: 431300 with Mentor ID: 638974 score: 0.85741
+2024-07-14 01:27:37,318 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 01:27:37,319 - INFO - matching_model - assignment - Final Match - Mentee ID: 555225 with Mentor ID: 234567 score: 0.83241
+2024-07-14 01:27:37,319 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 01:27:37,320 - INFO - matching_model - assignment - 471255 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 01:27:37,320 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 01:27:37,320 - INFO - matching_model - assignment - Final Match - Mentee ID: 293135 with Mentor ID: 638974 score: 0.84822
+2024-07-14 01:27:37,320 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 01:27:37,321 - INFO - matching_model - assignment - 436827 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 01:27:37,321 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 01:27:37,322 - INFO - matching_model - assignment - 812946 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 01:27:37,322 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 01:27:37,322 - INFO - matching_model - assignment - Final Match - Mentee ID: 691223 with Mentor ID: 876543 score: 0.87656
+2024-07-14 01:27:37,322 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 01:27:37,323 - INFO - matching_model - assignment - Final Match - Mentee ID: 772334 with Mentor ID: 774208 score: 0.85261
+2024-07-14 01:27:37,323 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 01:27:37,324 - INFO - matching_model - assignment - Final Match - Mentee ID: 812121 with Mentor ID: 138905 score: 0.82855
+2024-07-14 01:27:37,324 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 01:27:37,324 - INFO - matching_model - assignment - Final Match - Mentee ID: 789132 with Mentor ID: 789012 score: 0.84821
+2024-07-14 01:27:37,324 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 01:27:37,325 - INFO - matching_model - assignment - Final Match - Mentee ID: 376339 with Mentor ID: 830915 score: 0.82813
+2024-07-14 01:27:37,325 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 01:27:37,326 - INFO - matching_model - assignment - Final Match - Mentee ID: 944156 with Mentor ID: 532761 score: 0.8914099999999999
+2024-07-14 01:27:37,326 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 01:27:37,326 - INFO - matching_model - assignment - 272605 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 01:27:37,326 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 01:27:37,327 - INFO - matching_model - assignment - 772328 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 01:27:37,327 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 01:27:37,328 - INFO - matching_model - assignment - Final Match - Mentee ID: 688999 with Mentor ID: 774208 score: 0.8371
+2024-07-14 01:27:37,328 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 01:27:37,328 - INFO - matching_model - assignment - Final Match - Mentee ID: 445706 with Mentor ID: 345678 score: 0.88264
+2024-07-14 01:27:37,328 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 01:27:37,329 - INFO - matching_model - assignment - Final Match - Mentee ID: 324750 with Mentor ID: 345678 score: 0.80501
+2024-07-14 01:27:37,329 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 01:27:37,330 - INFO - matching_model - assignment - Final Match - Mentee ID: 531357 with Mentor ID: 876543 score: 0.87505
+2024-07-14 01:27:37,330 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 01:27:37,330 - INFO - matching_model - assignment - Final Match - Mentee ID: 800952 with Mentor ID: 298765 score: 0.82183
+2024-07-14 01:27:37,330 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 01:27:37,331 - INFO - matching_model - assignment - Final Match - Mentee ID: 221366 with Mentor ID: 891553 score: 0.8993599999999999
+2024-07-14 01:27:37,331 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 01:27:37,331 - INFO - matching_model - assignment - Final Match - Mentee ID: 230195 with Mentor ID: 312345 score: 0.89977
+2024-07-14 01:27:37,332 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 01:27:37,332 - INFO - matching_model - assignment - Final Match - Mentee ID: 259574 with Mentor ID: 891553 score: 0.8461299999999999
+2024-07-14 01:27:37,332 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 01:27:37,333 - INFO - matching_model - assignment - 538723 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 01:27:37,333 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 01:27:37,334 - INFO - matching_model - assignment - 590982 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 01:27:37,334 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 01:27:37,334 - INFO - matching_model - assignment - Final Match - Mentee ID: 378704 with Mentor ID: 774208 score: 0.86192
+2024-07-14 01:27:37,334 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 01:27:37,335 - INFO - matching_model - assignment - Final Match - Mentee ID: 242893 with Mentor ID: 123456 score: 0.82039
+2024-07-14 01:27:37,335 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 01:27:37,335 - INFO - matching_model - assignment - Final Match - Mentee ID: 398265 with Mentor ID: 312345 score: 0.89535
+2024-07-14 01:27:37,335 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 01:27:37,336 - INFO - matching_model - assignment - Final Match - Mentee ID: 920140 with Mentor ID: 891553 score: 0.89774
+2024-07-14 01:27:37,336 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 01:27:37,337 - INFO - matching_model - assignment - 933079 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 01:27:37,337 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 01:27:37,337 - INFO - matching_model - assignment - Final Match - Mentee ID: 685317 with Mentor ID: 638974 score: 0.86413
+2024-07-14 01:27:37,337 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 01:27:37,338 - INFO - matching_model - assignment - Final Match - Mentee ID: 609685 with Mentor ID: 407933 score: 0.88249
+2024-07-14 01:27:37,338 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 01:27:37,339 - INFO - matching_model - assignment - Final Match - Mentee ID: 463029 with Mentor ID: 809433 score: 0.80269
+2024-07-14 01:27:37,339 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 01:27:37,340 - INFO - matching_model - assignment - 504612 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 01:27:37,340 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 01:27:37,341 - INFO - matching_model - assignment - 808147 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 01:27:37,341 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 01:27:37,341 - INFO - matching_model - assignment - Final Match - Mentee ID: 582453 with Mentor ID: 638974 score: 0.80224
+2024-07-14 01:27:37,341 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 01:27:37,342 - INFO - matching_model - assignment - 709207 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 01:27:37,342 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 01:27:37,343 - INFO - matching_model - assignment - Final Match - Mentee ID: 609212 with Mentor ID: 830915 score: 0.8650599999999999
+2024-07-14 01:27:37,343 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 01:27:37,344 - INFO - matching_model - assignment - Final Match - Mentee ID: 818181 with Mentor ID: 408954 score: 0.8503999999999999
+2024-07-14 01:27:37,344 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 01:27:37,344 - INFO - matching_model - assignment - Final Match - Mentee ID: 559983 with Mentor ID: 328403 score: 0.84161
+2024-07-14 01:27:37,344 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 01:27:37,345 - INFO - matching_model - assignment - Final Match - Mentee ID: 690078 with Mentor ID: 417382 score: 0.81757
+2024-07-14 01:27:37,345 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 01:27:37,346 - INFO - matching_model - assignment - Final Match - Mentee ID: 874655 with Mentor ID: 417382 score: 0.80431
+2024-07-14 01:27:37,346 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 01:27:37,347 - INFO - matching_model - assignment - Final Match - Mentee ID: 734311 with Mentor ID: 328403 score: 0.81808
+2024-07-14 01:27:37,347 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 01:27:37,348 - INFO - matching_model - assignment - Final Match - Mentee ID: 264709 with Mentor ID: 408954 score: 0.80611
+2024-07-14 01:27:37,348 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 01:27:37,348 - INFO - matching_model - assignment - Final Match - Mentee ID: 738057 with Mentor ID: 234567 score: 0.80712
+2024-07-14 01:27:37,348 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 01:27:37,349 - INFO - matching_model - assignment - Final Match - Mentee ID: 961096 with Mentor ID: 876543 score: 0.8575499999999999
+2024-07-14 01:27:37,349 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 01:27:37,349 - INFO - matching_model - assignment - 707091 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 01:27:37,350 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 01:27:37,350 - INFO - matching_model - assignment - Final Match - Mentee ID: 576511 with Mentor ID: 234567 score: 0.88676
+2024-07-14 01:27:37,350 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 01:27:37,351 - INFO - matching_model - assignment - Final Match - Mentee ID: 285313 with Mentor ID: 383650 score: 0.86712
+2024-07-14 01:27:37,351 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 01:27:37,352 - INFO - matching_model - assignment - Final Match - Mentee ID: 964220 with Mentor ID: 876543 score: 0.86032
+2024-07-14 01:27:37,352 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 01:27:37,352 - INFO - matching_model - assignment - Final Match - Mentee ID: 821336 with Mentor ID: 563895 score: 0.84788
+2024-07-14 01:27:37,352 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 01:27:37,353 - INFO - matching_model - assignment - Final Match - Mentee ID: 367321 with Mentor ID: 408954 score: 0.82311
+2024-07-14 01:27:37,353 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 01:27:37,354 - INFO - matching_model - assignment - Final Match - Mentee ID: 433216 with Mentor ID: 891553 score: 0.84277
+2024-07-14 01:27:37,354 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 01:27:37,355 - INFO - matching_model - assignment - 548417 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 01:27:37,355 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 01:27:37,356 - INFO - matching_model - assignment - Final Match - Mentee ID: 868212 with Mentor ID: 345678 score: 0.87361
+2024-07-14 01:27:37,356 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 01:27:37,356 - INFO - matching_model - assignment - 504078 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 01:27:37,356 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 01:27:37,357 - INFO - matching_model - assignment - Final Match - Mentee ID: 414843 with Mentor ID: 891553 score: 0.82344
+2024-07-14 01:27:37,357 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 01:27:37,358 - INFO - matching_model - assignment - Final Match - Mentee ID: 181812 with Mentor ID: 312345 score: 0.84537
+2024-07-14 01:27:37,358 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 01:27:37,358 - INFO - matching_model - assignment - Final Match - Mentee ID: 146754 with Mentor ID: 235951 score: 0.81592
+2024-07-14 01:27:37,358 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 01:27:37,359 - INFO - matching_model - assignment - Final Match - Mentee ID: 567775 with Mentor ID: 328403 score: 0.85093
+2024-07-14 01:27:37,359 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 01:27:37,360 - INFO - matching_model - assignment - Final Match - Mentee ID: 312890 with Mentor ID: 789012 score: 0.8422999999999999
+2024-07-14 01:27:37,360 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 01:27:37,361 - INFO - matching_model - assignment - Final Match - Mentee ID: 867217 with Mentor ID: 235951 score: 0.85898
+2024-07-14 01:27:37,361 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 01:27:37,362 - INFO - matching_model - assignment - Final Match - Mentee ID: 774925 with Mentor ID: 328403 score: 0.87422
+2024-07-14 01:27:37,362 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 01:27:37,362 - INFO - matching_model - assignment - Final Match - Mentee ID: 145686 with Mentor ID: 407933 score: 0.85537
+2024-07-14 01:27:37,362 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 01:27:37,363 - INFO - matching_model - assignment - 678267 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 01:27:37,363 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 01:27:37,364 - INFO - matching_model - assignment - Final Match - Mentee ID: 773220 with Mentor ID: 809433 score: 0.86517
+2024-07-14 01:27:37,364 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 01:27:37,365 - INFO - matching_model - assignment - Final Match - Mentee ID: 362171 with Mentor ID: 417382 score: 0.83992
+2024-07-14 01:27:37,365 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 01:27:37,365 - INFO - matching_model - assignment - 332056 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 01:27:37,365 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 01:27:37,365 - INFO - matching_model - assignment - iteration ------------ 70
+2024-07-14 01:27:37,366 - INFO - matching_model - assignment - Final Match - Mentee ID: 852367 with Mentor ID: 809433 score: 0.74071
+2024-07-14 01:27:37,366 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 01:27:37,367 - INFO - matching_model - assignment - Final Match - Mentee ID: 435789 with Mentor ID: 876543 score: 0.74758
+2024-07-14 01:27:37,367 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 01:27:37,367 - INFO - matching_model - assignment - Final Match - Mentee ID: 214578 with Mentor ID: 563895 score: 0.7886
+2024-07-14 01:27:37,367 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 01:27:37,368 - INFO - matching_model - assignment - Final Match - Mentee ID: 471255 with Mentor ID: 789012 score: 0.71793
+2024-07-14 01:27:37,368 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 01:27:37,369 - INFO - matching_model - assignment - Final Match - Mentee ID: 436827 with Mentor ID: 123456 score: 0.7986599999999999
+2024-07-14 01:27:37,369 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 01:27:37,370 - INFO - matching_model - assignment - Final Match - Mentee ID: 812946 with Mentor ID: 638974 score: 0.77933
+2024-07-14 01:27:37,370 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 01:27:37,370 - INFO - matching_model - assignment - Final Match - Mentee ID: 272605 with Mentor ID: 830915 score: 0.75546
+2024-07-14 01:27:37,370 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 01:27:37,371 - INFO - matching_model - assignment - Final Match - Mentee ID: 772328 with Mentor ID: 328403 score: 0.79692
+2024-07-14 01:27:37,371 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 01:27:37,372 - INFO - matching_model - assignment - Final Match - Mentee ID: 538723 with Mentor ID: 345678 score: 0.7948
+2024-07-14 01:27:37,372 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 01:27:37,372 - INFO - matching_model - assignment - 590982 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 01:27:37,372 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 01:27:37,373 - INFO - matching_model - assignment - 933079 Could not be matched as their score was less than 0.60 after iterations OR mentor count was full
+2024-07-14 01:27:37,373 - INFO - matching_model - assignment - ---------------------------
+2024-07-14 01:27:37,374 - INFO - matching_model - assignment - Final Match - Mentee ID: 504612 with Mentor ID: 987654 score: 0.74307
+2024-07-14 01:27:37,374 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 01:27:37,375 - INFO - matching_model - assignment - Final Match - Mentee ID: 808147 with Mentor ID: 408954 score: 0.71422
+2024-07-14 01:27:37,375 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 01:27:37,375 - INFO - matching_model - assignment - Final Match - Mentee ID: 709207 with Mentor ID: 383650 score: 0.7283
+2024-07-14 01:27:37,375 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 01:27:37,376 - INFO - matching_model - assignment - Final Match - Mentee ID: 707091 with Mentor ID: 532761 score: 0.77837
+2024-07-14 01:27:37,376 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 01:27:37,376 - INFO - matching_model - assignment - Final Match - Mentee ID: 548417 with Mentor ID: 298765 score: 0.79852
+2024-07-14 01:27:37,376 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 01:27:37,377 - INFO - matching_model - assignment - Final Match - Mentee ID: 504078 with Mentor ID: 417382 score: 0.79869
+2024-07-14 01:27:37,377 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 01:27:37,378 - INFO - matching_model - assignment - Final Match - Mentee ID: 678267 with Mentor ID: 789012 score: 0.7520899999999999
+2024-07-14 01:27:37,378 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 01:27:37,379 - INFO - matching_model - assignment - Final Match - Mentee ID: 332056 with Mentor ID: 408954 score: 0.70505
+2024-07-14 01:27:37,379 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 01:27:37,379 - INFO - matching_model - assignment - iteration ------------ 60
+2024-07-14 01:27:37,380 - INFO - matching_model - assignment - Final Match - Mentee ID: 590982 with Mentor ID: 830915 score: 0.64889
+2024-07-14 01:27:37,380 - INFO - matching_model - assignment - ------------------------------------------------
+2024-07-14 01:27:37,381 - INFO - matching_model - assignment - Final Match - Mentee ID: 933079 with Mentor ID: 830915 score: 0.6942499999999999
+2024-07-14 01:27:37,381 - INFO - matching_model - assignment - ------------------------------------------------
