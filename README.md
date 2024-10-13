@@ -22,3 +22,8 @@ The purpose of this application is to take Mentors and Mentees inside of a CSV F
 
 1. docker build -t mentor_test_api .
 2. docker run -p 5001:5001 mentor_test_api
+
+## Contributors
+- Arden Monaghan
+- Tanmay Munjal
+- Yukesh Subedi
