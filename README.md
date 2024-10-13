@@ -2,7 +2,7 @@
 
 The purpose of this application is to take Mentors and Mentees inside of a CSV File and use Matching parameters to help return a score of all the possible matches between all of the mentors and the mentees. An algorithm helps find the best matches for each of the mentees to their best mentor and returns that file back to the uploader to be saved as a seperate CSV.
 
-## The backend for the Science Mentorship Program Mentor / Mentee Matching
+## Instructions for Running Applicaiton.
 
 1. Pull All the Files from the Github
 2. Build the Dockerfile (Must have docker installed on computer)
